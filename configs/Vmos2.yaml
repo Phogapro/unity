@@ -1,0 +1,36 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "socks5"
+    server: "160.250.166.88"
+    port: 20433
+    username: "phoga1"
+    password: "Phoga654321"
+    udp: true
+
+  - name: BACKUP1
+    type: "socks5"
+    server: "160.250.166.88"
+    port: 20091
+    username: "jpRZLq"
+    password: "vUPONK"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+
+rules:
+  - MATCH,AUTO

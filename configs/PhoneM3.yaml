@@ -1,0 +1,36 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "socks5"
+    server: "171.248.253.125"
+    port: 13242
+    username: "QjZ0vDzv"
+    password: "F9azr5Vb"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "14.161.29.217"
+    port: 15121
+    username: "v2-121-939296"
+    password: "AFMFH"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+
+rules:
+  - MATCH,AUTO

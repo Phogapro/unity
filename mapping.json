@@ -1,0 +1,244 @@
+{
+  "groups": {
+
+    "GROUP_BoxPhone123": {
+
+      "main": {
+        "type": "http",
+        "proxy": "210.245.34.106",
+        "port": 47146,
+        "user": "zcqz",
+        "pass": "0hjx"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15132,
+          "user": "v2-132-789327",
+          "pass": "FQKGR"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 21322,
+          "user": "OPcesO",
+          "pass": "TUuqYb"
+        }
+
+      ]
+    },
+	
+	"GROUP_BoxPhone456": {
+
+      "main": {
+        "type": "http",
+        "proxy": "113.177.130.172",
+        "port": 41820,
+        "user": "1zwe",
+        "pass": "sdoa"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15122,
+          "user": "v2-122-799594",
+          "pass": "FEAHO"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20091,
+          "user": "jpRZLq",
+          "pass": "vUPONK"
+        }
+
+      ]
+    },
+	
+	"GROUP_BoxPhone789": {
+
+      "main": {
+        "type": "http",
+        "proxy": "113.177.130.172",
+        "port": 53322,
+        "user": "ipyh",
+        "pass": "xlt5"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15131,
+          "user": "v2-131-711194",
+          "pass": "RBEKL"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20091,
+          "user": "jpRZLq",
+          "pass": "vUPONK"
+        }
+
+      ]
+    },
+	
+	"GROUP_BoxPhone13x16": {
+
+      "main": {
+        "type": "http",
+        "proxy": "210.245.34.106",
+        "port": 46336,
+        "user": "4lur",
+        "pass": "8w9d"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15121,
+          "user": "v2-121-939296",
+          "pass": "AFMFH"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 21322,
+          "user": "OPcesO",
+          "pass": "TUuqYb"
+        }
+
+      ]
+    },
+	
+	"GROUP_PRIVATE_Bot225": {
+
+      "main": {
+        "type": "http",
+        "proxy": "103.155.216.231",
+        "port": 12100,
+        "user": "Phogapro",
+        "pass": "Phogapr0123"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15122,
+          "user": "v2-122-799594",
+          "pass": "FEAHO"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos1": {
+
+      "main": {
+        "type": "http",
+        "proxy": "103.155.216.231",
+        "port": 12500,
+        "user": "Phogapro",
+        "pass": "Phogapr0123"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15131,
+          "user": "v2-131-711194",
+          "pass": "RBEKL"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos2": {
+
+      "main": {
+        "type": "socks5",
+        "proxy": "160.250.166.88",
+        "port": 20433,
+        "user": "phoga1",
+        "pass": "Phoga654321"
+      },
+
+      "backups": [
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20091,
+          "user": "jpRZLq",
+          "pass": "vUPONK"
+        }
+     
+      ]
+    },
+
+    "GROUP_PRIVATE_PhoneM3": {
+
+      "main": {
+        "type": "socks5",
+        "proxy": "171.248.253.125",
+        "port": 13242,
+        "user": "QjZ0vDzv",
+        "pass": "F9azr5Vb"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15121,
+          "user": "v2-121-939296",
+          "pass": "AFMFH"
+        }
+
+      ]
+    }
+
+  },
+
+  "devices": {
+
+    "BotPhone1": "GROUP_BoxPhone123",
+    "BotPhone2": "GROUP_BoxPhone123",
+    "BotPhone3": "GROUP_BoxPhone123",
+	"BotPhone4": "GROUP_BoxPhone456",
+    "BotPhone5": "GROUP_BoxPhone456",
+    "BotPhone6": "GROUP_BoxPhone456",
+	"BotPhone7": "GROUP_BoxPhone789",
+	"BotPhone8": "GROUP_BoxPhone789",
+	"BotPhone9": "GROUP_BoxPhone789",
+	"BotPhone13": "GROUP_BoxPhone13x16",
+	"BotPhone14": "GROUP_BoxPhone13x16",
+	"BotPhone15": "GROUP_BoxPhone13x16",
+	"BotPhone16": "GROUP_BoxPhone13x16",
+	"Bot225": "GROUP_PRIVATE_Bot225",
+	"vmos1": "GROUP_PRIVATE_Vmos1",
+	"Vmos2": "GROUP_PRIVATE_Vmos2",
+
+    "PhoneM3": "GROUP_PRIVATE_PhoneM3"
+
+  }
+}

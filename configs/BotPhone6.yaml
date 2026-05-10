@@ -1,0 +1,45 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "113.177.130.172"
+    port: 41820
+    username: "1zwe"
+    password: "sdoa"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "14.161.29.217"
+    port: 15122
+    username: "v2-122-799594"
+    password: "FEAHO"
+    udp: true
+
+  - name: BACKUP2
+    type: "socks5"
+    server: "160.250.166.88"
+    port: 20091
+    username: "jpRZLq"
+    password: "vUPONK"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+      - BACKUP2
+
+rules:
+  - MATCH,AUTO
