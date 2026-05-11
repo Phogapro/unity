@@ -194,6 +194,121 @@
       ]
     },
 
+"GROUP_PRIVATE_PhoneB2": {
+
+      "main": {
+        "type": "http",
+        "proxy": "210.245.34.106",
+        "port": 50562,
+        "user": "aucr",
+        "pass": "b8xl"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15141,
+          "user": "v2-141-473593",
+          "pass": "AQGYP"
+        }
+     
+      ]
+    },
+	
+"GROUP_PRIVATE_PhoneB3": {
+
+      "main": {
+        "type": "http",
+        "proxy": "113.177.130.172",
+        "port": 43744,
+        "user": "zlgk",
+        "pass": "0cmn"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15143,
+          "user": "v2-143-620150",
+          "pass": "VIJNY"
+        }
+     
+      ]
+    },	
+	
+"GROUP_PRIVATE_PhoneB4": {
+
+      "main": {
+        "type": "http",
+        "proxy": "113.177.130.172",
+        "port": 51179,
+        "user": "u2ya",
+        "pass": "uekt"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15144,
+          "user": "v2-144-542901",
+          "pass": "GWRMN"
+        }
+     
+      ]
+    },
+	
+	"GROUP_PRIVATE_PhoneB5": {
+
+      "main": {
+        "type": "http",
+        "proxy": "210.245.34.106",
+        "port": 40162,
+        "user": "z6so",
+        "pass": "vc45"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15145,
+          "user": "v2-145-634040",
+          "pass": "DTIAV"
+        }
+     
+      ]
+    },
+	
+	"GROUP_PRIVATE_PhoneB6": {
+
+      "main": {
+        "type": "http",
+        "proxy": "210.245.34.106",
+        "port": 46140,
+        "user": "l6p5",
+        "pass": "r5j2"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.161.29.217",
+          "port": 15146,
+          "user": "v2-146-532788",
+          "pass": "DVWIG"
+        }
+     
+      ]
+    },
+
     "GROUP_PRIVATE_PhoneM3": {
 
       "main": {
@@ -237,7 +352,11 @@
 	"Bot225": "GROUP_PRIVATE_Bot225",
 	"vmos1": "GROUP_PRIVATE_Vmos1",
 	"Vmos2": "GROUP_PRIVATE_Vmos2",
-
+	"PhoneB2": "GROUP_PRIVATE_PhoneB2",
+	"PhoneB3": "GROUP_PRIVATE_PhoneB3",
+	"PhoneB4": "GROUP_PRIVATE_PhoneB4",
+	"PhoneB5": "GROUP_PRIVATE_PhoneB5",
+	"PhoneB6": "GROUP_PRIVATE_PhoneB6",
     "PhoneM3": "GROUP_PRIVATE_PhoneM3"
 
   }

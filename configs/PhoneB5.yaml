@@ -1,0 +1,36 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "210.245.34.106"
+    port: 40162
+    username: "z6so"
+    password: "vc45"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "14.161.29.217"
+    port: 15145
+    username: "v2-145-634040"
+    password: "DTIAV"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+
+rules:
+  - MATCH,AUTO
