@@ -244,10 +244,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "113.177.130.172",
+        "proxy": "118.69.71.241",
         "port": 51179,
-        "user": "u2ya",
-        "pass": "uekt"
+        "user": "q7kq",
+        "pass": "l5v2"
       },
 
       "backups": [
