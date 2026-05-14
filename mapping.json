@@ -174,11 +174,11 @@
 "GROUP_PRIVATE_Vmos2": {
 
       "main": {
-        "type": "socks5",
-        "proxy": "160.250.166.88",
-        "port": 20433,
-        "user": "phoga1",
-        "pass": "Phoga654321"
+        "type": "http",
+        "proxy": "171.248.39.160",
+        "port": 57350,
+        "user": "Phogapro01",
+        "pass": "VY46jDhjCj"
       },
 
       "backups": [
