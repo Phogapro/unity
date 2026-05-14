@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.161.29.217"
-    port: 15146
-    username: "v2-146-532788"
-    password: "DVWIG"
+    server: "171.248.39.160"
+    port: 49458
+    username: "backup2"
+    password: "backup@2026#"
     udp: true
 
 

@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.161.29.217"
-    port: 15131
-    username: "v2-131-711194"
-    password: "RBEKL"
+    server: "171.248.253.125"
+    port: 55763
+    username: "thanh3"
+    password: "thanh@2026#"
     udp: true
 
 

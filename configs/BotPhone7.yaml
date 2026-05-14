@@ -8,18 +8,18 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "113.177.130.172"
+    server: "210.245.34.106"
     port: 53322
-    username: "ipyh"
-    password: "xlt5"
+    username: "nz73"
+    password: "lhpy"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "14.161.29.217"
-    port: 15131
-    username: "v2-131-711194"
-    password: "RBEKL"
+    server: "103.82.27.114"
+    port: 12147
+    username: "Phogapro"
+    password: "8vED5g6ItlWu43"
     udp: true
 
   - name: BACKUP2
