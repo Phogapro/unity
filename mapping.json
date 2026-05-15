@@ -221,10 +221,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "113.177.130.172",
+        "proxy": "210.245.34.106",
         "port": 43744,
-        "user": "zlgk",
-        "pass": "0cmn"
+        "user": "lkfg",
+        "pass": "28eu"
       },
 
       "backups": [
@@ -339,7 +339,7 @@
     "BotPhone1": "GROUP_BoxPhone123",
     "BotPhone2": "GROUP_BoxPhone123",
     "BotPhone3": "GROUP_BoxPhone123",
-	"BotPhone4": "GROUP_BoxPhone456",
+    "BotPhone4": "GROUP_BoxPhone456",
     "BotPhone5": "GROUP_BoxPhone456",
     "BotPhone6": "GROUP_BoxPhone456",
 	"BotPhone7": "GROUP_BoxPhone789",
