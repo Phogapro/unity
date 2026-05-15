@@ -9,8 +9,8 @@ from datetime import datetime
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "8814585112:AAG7pYN34Y1JQ8zysLIVxdY6P1RO5lnOznA"
-CHAT_ID = "7537016823"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")
 
 CHECK_INTERVAL = 600
 
