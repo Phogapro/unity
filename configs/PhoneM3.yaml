@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "socks5"
-    server: "171.248.253.125"
-    port: 13242
-    username: "QjZ0vDzv"
-    password: "F9azr5Vb"
+    server: "116.102.207.110"
+    port: 26315
+    username: "backup1"
+    password: "backup@2026#"
     udp: true
 
   - name: BACKUP1
