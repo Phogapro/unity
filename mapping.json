@@ -152,10 +152,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "103.155.216.231",
-        "port": 12500,
-        "user": "Phogapro",
-        "pass": "Phogapr0123"
+        "proxy": "210.245.34.106",
+        "port": 42575,
+        "user": "a7j1",
+        "pass": "d1l4"
       },
 
       "backups": [
