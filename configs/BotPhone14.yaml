@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "socks5"
-    server: "160.250.166.88"
-    port: 21322
-    username: "OPcesO"
-    password: "TUuqYb"
+    server: "171.248.44.142"
+    port: 64246
+    username: "backup1"
+    password: "backup@2026#"
     udp: true
 
 

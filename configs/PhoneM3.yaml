@@ -8,18 +8,26 @@ proxies:
 
   - name: MAIN
     type: "socks5"
-    server: "116.102.207.110"
-    port: 26315
-    username: "backup1"
-    password: "backup@2026#"
+    server: "160.250.166.88"
+    port: 20433
+    username: "phoga1"
+    password: "Phoga654321"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "171.248.39.160"
-    port: 49458
-    username: "backup2"
-    password: "backup@2026#"
+    server: "103.82.27.114"
+    port: 12147
+    username: "Phogapro"
+    password: "8vED5g6ItlWu43"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "14.241.72.253"
+    port: 17862
+    username: "IxibFI"
+    password: "KiYaaM"
     udp: true
 
 
@@ -31,6 +39,7 @@ proxy-groups:
     proxies:
       - MAIN
       - BACKUP1
+      - BACKUP2
 
 rules:
   - MATCH,AUTO

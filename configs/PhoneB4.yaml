@@ -16,7 +16,15 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "171.248.46.143"
+    server: "118.70.171.101"
+    port: 46631
+    username: "dgfpWf"
+    password: "THOsOf"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "171.248.44.142"
     port: 64246
     username: "backup1"
     password: "backup@2026#"
@@ -31,6 +39,7 @@ proxy-groups:
     proxies:
       - MAIN
       - BACKUP1
+      - BACKUP2
 
 rules:
   - MATCH,AUTO

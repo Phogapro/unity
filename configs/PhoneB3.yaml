@@ -16,10 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "171.248.39.160"
-    port: 51471
-    username: "thanh"
-    password: ":thanh@2026#"
+    server: "14.241.72.253"
+    port: 17862
+    username: "IxibFI"
+    password: "KiYaaM"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "116.102.202.247"
+    port: 49458
+    username: "backup2"
+    password: "backup@2026#"
     udp: true
 
 
@@ -31,6 +39,7 @@ proxy-groups:
     proxies:
       - MAIN
       - BACKUP1
+      - BACKUP2
 
 rules:
   - MATCH,AUTO

@@ -14,19 +14,19 @@
       "backups": [
 
         {
-          "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12147,
-          "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20091,
+          "user": "jpRZLq",
+          "pass": "vUPONK"
         },
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 21322,
-          "user": "OPcesO",
-          "pass": "TUuqYb"
+          "type": "http",
+          "proxy": "116.102.202.247",
+          "port": 49458,
+          "user": "backup2",
+          "pass": "backup@2026#"
         }
 
       ]
@@ -47,17 +47,17 @@
         {
           "type": "http",
           "proxy": "103.82.27.114",
-          "port": 12147,
+          "port": 12500,
           "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "pass": "Phogapr0123"
         },
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 21322,
-          "user": "OPcesO",
-          "pass": "TUuqYb"
+          "type": "http",
+          "proxy": "14.241.72.62",
+          "port": 51377,
+          "user": "UpPrmW",
+          "pass": "wqImGa"
         }
 
       ]
@@ -77,18 +77,18 @@
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12147,
-          "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "proxy": "116.102.202.247",
+          "port": 49458,
+          "user": "backup2",
+          "pass": "backup@2026#"
         },
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20091,
-          "user": "jpRZLq",
-          "pass": "vUPONK"
+          "type": "http",
+          "proxy": "203.175.97.116",
+          "port": 20584,
+          "user": "phoga",
+          "pass": "phoga123456"
         }
 
       ]
@@ -116,10 +116,10 @@
 
         {
           "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 21322,
-          "user": "OPcesO",
-          "pass": "TUuqYb"
+          "proxy": "171.248.44.142",
+          "port": 64246,
+          "user": "backup1",
+          "pass": "backup@2026#"
         }
 
       ]
@@ -139,10 +139,18 @@
 
         {
           "type": "http",
-          "proxy": "171.248.46.143",
-          "port": 13751,
-          "user": "thanh4",
-          "pass": "thanh@2026#"
+          "proxy": "14.241.72.253",
+          "port": 17862,
+          "user": "IxibFI",
+          "pass": "KiYaaM"
+        },
+
+        {
+          "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12500,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
         }
      
       ]
@@ -161,11 +169,19 @@
       "backups": [
 
         {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 21322,
+          "user": "OPcesO",
+          "pass": "TUuqYb"
+        },
+
+        {
           "type": "http",
-          "proxy": "171.248.253.125",
-          "port": 55763,
-          "user": "thanh3",
-          "pass": "thanh@2026#"
+          "proxy": "103.82.27.114",
+          "port": 12500,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
         }
      
       ]
@@ -175,7 +191,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.248.39.160",
+        "proxy": "116.102.202.247",
         "port": 57350,
         "user": "Phogapro01",
         "pass": "VY46jDhjCj"
@@ -184,11 +200,19 @@
       "backups": [
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20091,
-          "user": "jpRZLq",
-          "pass": "vUPONK"
+          "type": "http",
+          "proxy": "203.175.97.116",
+          "port": 20584,
+          "user": "phoga",
+          "pass": "phoga123456"
+        },
+
+        {
+          "type": "http",
+          "proxy": "171.248.44.142",
+          "port": 64246,
+          "user": "backup1",
+          "pass": "backup@2026#"
         }
      
       ]
@@ -208,10 +232,18 @@
 
         {
           "type": "http",
-          "proxy": "171.248.253.125",
-          "port": 20129,
-          "user": "thanh2",
-          "pass": "thanh@2026#"
+          "proxy": "103.82.27.114",
+          "port": 12500,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
+        },
+
+        {
+          "type": "http",
+          "proxy": "14.241.72.62",
+          "port": 51377,
+          "user": "UpPrmW",
+          "pass": "wqImGa"
         }
      
       ]
@@ -231,10 +263,18 @@
 
         {
           "type": "http",
-          "proxy": "171.248.39.160",
-          "port": 51471,
-          "user": "thanh",
-          "pass": ":thanh@2026#"
+          "proxy": "14.241.72.253",
+          "port": 17862,
+          "user": "IxibFI",
+          "pass": "KiYaaM"
+        },
+
+        {
+          "type": "http",
+          "proxy": "116.102.202.247",
+          "port": 49458,
+          "user": "backup2",
+          "pass": "backup@2026#"
         }
      
       ]
@@ -254,7 +294,15 @@
 
         {
           "type": "http",
-          "proxy": "171.248.46.143",
+          "proxy": "118.70.171.101",
+          "port": 46631,
+          "user": "dgfpWf",
+          "pass": "THOsOf"
+        },
+
+        {
+          "type": "http",
+          "proxy": "171.248.44.142",
           "port": 64246,
           "user": "backup1",
           "pass": "backup@2026#"
@@ -277,10 +325,18 @@
 
         {
           "type": "http",
-          "proxy": "171.248.46.143",
-          "port": 64246,
-          "user": "backup1",
-          "pass": "backup@2026#"
+          "proxy": "14.241.72.62",
+          "port": 51377,
+          "user": "UpPrmW",
+          "pass": "wqImGa"
+        },
+
+        {
+          "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12147,
+          "user": "Phogapro",
+          "pass": "8vED5g6ItlWu43"
         }
      
       ]
@@ -300,10 +356,18 @@
 
         {
           "type": "http",
-          "proxy": "171.248.39.160",
-          "port": 49458,
-          "user": "backup2",
+          "proxy": "171.248.44.142",
+          "port": 64246,
+          "user": "backup1",
           "pass": "backup@2026#"
+        },
+
+        {
+          "type": "http",
+          "proxy": "203.175.97.116",
+          "port": 20584,
+          "user": "phoga",
+          "pass": "phoga123456"
         }
      
       ]
@@ -313,20 +377,28 @@
 
       "main": {
         "type": "socks5",
-        "proxy": "171.248.253.125",
-        "port": 13242,
-        "user": "QjZ0vDzv",
-        "pass": "F9azr5Vb"
+        "proxy": "160.250.166.88",
+        "port": 20433,
+        "user": "phoga1",
+        "pass": "Phoga654321"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "171.248.39.160",
-          "port": 49458,
-          "user": "backup2",
-          "pass": "backup@2026#"
+          "proxy": "103.82.27.114",
+          "port": 12147,
+          "user": "Phogapro",
+          "pass": "8vED5g6ItlWu43"
+        },
+
+        {
+          "type": "http",
+          "proxy": "14.241.72.253",
+          "port": 17862,
+          "user": "IxibFI",
+          "pass": "KiYaaM"
         }
 
       ]
@@ -345,7 +417,7 @@
 	"BotPhone7": "GROUP_BoxPhone789",
 	"BotPhone8": "GROUP_BoxPhone789",
 	"BotPhone9": "GROUP_BoxPhone789",
-	"BotPhone10": "GROUP_PRIVATE_PhoneB4",
+	"BotPhone10": "GROUP_BoxPhone789",
 	"BotPhone13": "GROUP_BoxPhone13x16",
 	"BotPhone14": "GROUP_BoxPhone13x16",
 	"BotPhone15": "GROUP_BoxPhone13x16",

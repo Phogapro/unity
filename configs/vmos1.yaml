@@ -15,11 +15,19 @@ proxies:
     udp: true
 
   - name: BACKUP1
+    type: "socks5"
+    server: "160.250.166.88"
+    port: 21322
+    username: "OPcesO"
+    password: "TUuqYb"
+    udp: true
+
+  - name: BACKUP2
     type: "http"
-    server: "171.248.253.125"
-    port: 55763
-    username: "thanh3"
-    password: "thanh@2026#"
+    server: "103.82.27.114"
+    port: 12500
+    username: "Phogapro"
+    password: "Phogapr0123"
     udp: true
 
 
@@ -31,6 +39,7 @@ proxy-groups:
     proxies:
       - MAIN
       - BACKUP1
+      - BACKUP2
 
 rules:
   - MATCH,AUTO
