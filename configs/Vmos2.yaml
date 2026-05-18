@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "116.102.202.247"
+    server: "116.102.206.208"
     port: 57350
     username: "Phogapro01"
     password: "VY46jDhjCj"

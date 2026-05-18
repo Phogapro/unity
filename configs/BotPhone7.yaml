@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "116.102.202.247"
+    server: "116.102.206.208"
     port: 49458
     username: "backup2"
     password: "backup@2026#"

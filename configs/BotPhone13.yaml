@@ -23,8 +23,8 @@ proxies:
     udp: true
 
   - name: BACKUP2
-    type: "socks5"
-    server: "171.248.44.142"
+    type: "http"
+    server: "27.65.61.180"
     port: 64246
     username: "backup1"
     password: "backup@2026#"
