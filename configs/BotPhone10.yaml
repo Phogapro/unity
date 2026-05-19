@@ -9,25 +9,25 @@ proxies:
   - name: MAIN
     type: "http"
     server: "210.245.34.106"
-    port: 53322
-    username: "nz73"
-    password: "lhpy"
+    port: 51179
+    username: "i4ty"
+    password: "2g0g"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "116.102.206.208"
-    port: 49458
-    username: "backup2"
-    password: "backup@2026#"
+    server: "118.70.171.101"
+    port: 46631
+    username: "dgfpWf"
+    password: "THOsOf"
     udp: true
 
   - name: BACKUP2
-    type: "socks5"
-    server: "203.175.97.116"
-    port: 20584
-    username: "phoga"
-    password: "phoga123456"
+    type: "http"
+    server: "222.255.180.113"
+    port: 38872
+    username: "phogapro"
+    password: "phogapro"
     udp: true
 
 

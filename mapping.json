@@ -23,10 +23,10 @@
 
         {
           "type": "http",
-          "proxy": "116.102.206.208",
-          "port": 49458,
-          "user": "backup2",
-          "pass": "backup@2026#"
+          "proxy": "103.82.192.234",
+          "port": 19803,
+          "user": "phogapro",
+          "pass": "phogapro"
         }
 
       ]
@@ -77,10 +77,10 @@
 
         {
           "type": "http",
-          "proxy": "116.102.206.208",
-          "port": 49458,
-          "user": "backup2",
-          "pass": "backup@2026#"
+          "proxy": "103.82.192.234",
+          "port": 19803,
+          "user": "phogapro",
+          "pass": "phogapro"
         },
 
         {
@@ -116,10 +116,10 @@
 
         {
           "type": "http",
-          "proxy": "27.65.61.180",
-          "port": 64246,
-          "user": "backup1",
-          "pass": "backup@2026#"
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "phogapro",
+        "pass": "phogapro"
         }
 
       ]
@@ -191,10 +191,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "116.102.206.208",
-        "port": 57350,
-        "user": "Phogapro01",
-        "pass": "VY46jDhjCj"
+        "proxy": "103.82.195.219",
+        "port": 16184,
+        "user": "phogapro",
+        "pass": "phogapro"
       },
 
       "backups": [
@@ -271,10 +271,10 @@
 
         {
           "type": "http",
-          "proxy": "116.102.206.208",
-          "port": 49458,
-          "user": "backup2",
-          "pass": "backup@2026#"
+          "proxy": "103.82.192.234",
+          "port": 19803,
+          "user": "phogapro",
+          "pass": "phogapro"
         }
      
       ]
@@ -302,10 +302,10 @@
 
         {
           "type": "http",
-          "proxy": "27.65.61.180",
-          "port": 64246,
-          "user": "backup1",
-          "pass": "backup@2026#"
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "phogapro",
+        "pass": "phogapro"
         }
      
       ]
@@ -346,10 +346,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 46140,
-        "user": "l6p5",
-        "pass": "r5j2"
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "phogapro",
+        "pass": "phogapro"
       },
 
       "backups": [
@@ -417,7 +417,7 @@
 	"BotPhone7": "GROUP_BoxPhone789",
 	"BotPhone8": "GROUP_BoxPhone789",
 	"BotPhone9": "GROUP_BoxPhone789",
-	"BotPhone10": "GROUP_BoxPhone789",
+	"BotPhone10": "GROUP_PRIVATE_PhoneB4",
 	"BotPhone13": "GROUP_BoxPhone13x16",
 	"BotPhone14": "GROUP_BoxPhone13x16",
 	"BotPhone15": "GROUP_BoxPhone13x16",
