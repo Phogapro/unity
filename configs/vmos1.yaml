@@ -9,9 +9,9 @@ proxies:
   - name: MAIN
     type: "http"
     server: "210.245.34.106"
-    port: 42575
-    username: "a7j1"
-    password: "d1l4"
+    port: 51706
+    username: "s1mp"
+    password: "cpdg"
     udp: true
 
   - name: BACKUP1
