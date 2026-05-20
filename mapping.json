@@ -169,11 +169,11 @@
       "backups": [
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 21322,
-          "user": "OPcesO",
-          "pass": "TUuqYb"
+          "type": "http",
+          "proxy": "210.245.34.106",
+          "port": 42575,
+          "user": "a7j1",
+          "pass": "d1l4"
         },
 
         {

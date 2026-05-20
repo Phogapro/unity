@@ -15,11 +15,11 @@ proxies:
     udp: true
 
   - name: BACKUP1
-    type: "socks5"
-    server: "160.250.166.88"
-    port: 21322
-    username: "OPcesO"
-    password: "TUuqYb"
+    type: "http"
+    server: "210.245.34.106"
+    port: 42575
+    username: "a7j1"
+    password: "d1l4"
     udp: true
 
   - name: BACKUP2
