@@ -249,6 +249,37 @@
       ]
     },
 	
+	"GROUP_PRIVATE_BoxPhone12": {
+
+      "main": {
+        "type": "http",
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "phogapro",
+        "pass": "phogapro"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "27.65.61.180",
+          "port": 64246,
+          "user": "backup1",
+          "pass": "backup@2026#"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "203.175.97.116",
+          "port": 20584,
+          "user": "phoga",
+          "pass": "phoga123456"
+        }
+     
+      ]
+    },
+	
 "GROUP_PRIVATE_BoxPhone11": {
 
       "main": {
@@ -342,37 +373,6 @@
       ]
     },
 	
-	"GROUP_PRIVATE_PhoneB6": {
-
-      "main": {
-        "type": "http",
-        "proxy": "222.255.180.113",
-        "port": 38872,
-        "user": "phogapro",
-        "pass": "phogapro"
-      },
-
-      "backups": [
-
-        {
-          "type": "http",
-          "proxy": "27.65.61.180",
-          "port": 64246,
-          "user": "backup1",
-          "pass": "backup@2026#"
-        },
-
-        {
-          "type": "socks5",
-          "proxy": "203.175.97.116",
-          "port": 20584,
-          "user": "phoga",
-          "pass": "phoga123456"
-        }
-     
-      ]
-    },
-
     "GROUP_PRIVATE_PhoneM3": {
 
       "main": {
@@ -419,6 +419,7 @@
 	"BotPhone9": "GROUP_BoxPhone789",
 	"BotPhone10": "GROUP_PRIVATE_BoxPhone10",
 	"BotPhone11": "GROUP_PRIVATE_BoxPhone11",
+	"BotPhone12": "GROUP_PRIVATE_BoxPhone12",
 	"BotPhone13": "GROUP_BoxPhone13x16",
 	"BotPhone14": "GROUP_BoxPhone13x16",
 	"BotPhone15": "GROUP_BoxPhone13x16",
@@ -428,7 +429,6 @@
 	"Vmos2": "GROUP_PRIVATE_Vmos2",
 	"PhoneB2": "GROUP_PRIVATE_PhoneB2",
 	"PhoneB5": "GROUP_PRIVATE_PhoneB5",
-	"PhoneB6": "GROUP_PRIVATE_PhoneB6",
     "PhoneM3": "GROUP_PRIVATE_PhoneM3"
 
   }

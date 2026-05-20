@@ -13,11 +13,9 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
 CHECK_INTERVAL = 600
-
 REQUEST_TIMEOUT = 10
 
 STATE_FILE = "monitor_state.json"
-
 LOG_FILE = "monitor.log"
 
 # =========================================================
@@ -25,13 +23,22 @@ LOG_FILE = "monitor.log"
 # =========================================================
 
 TEST_URLS = [
-
     "http://www.gstatic.com/generate_204",
     "http://cp.cloudflare.com/generate_204",
     "http://connectivitycheck.gstatic.com/generate_204",
     "http://www.google.com/generate_204"
-
 ]
+
+# =========================================================
+# VALIDATE ENV
+# =========================================================
+
+if not BOT_TOKEN or not CHAT_ID:
+
+    print("BOT_TOKEN or CHAT_ID missing")
+    print("Please set environment variables")
+
+    exit()
 
 # =========================================================
 # LOAD CONFIG
@@ -45,7 +52,7 @@ groups = data["groups"]
 devices = data["devices"]
 
 # =========================================================
-# LOAD OLD STATE
+# LOAD STATE
 # =========================================================
 
 if os.path.exists(STATE_FILE):
@@ -106,64 +113,12 @@ def send_telegram(message):
         log(f"TELEGRAM ERROR: {e}")
 
 # =========================================================
-# RANDOM URL
+# RANDOM TEST URL
 # =========================================================
 
 def get_random_test_url():
 
     return random.choice(TEST_URLS)
-
-# =========================================================
-# TEST PROXY
-# =========================================================
-
-def test_proxy(proxy):
-
-    proxy_type = proxy["type"]
-
-    proxy_url = (
-        f"{proxy_type}://"
-        f"{proxy['user']}:{proxy['pass']}@"
-        f"{proxy['proxy']}:{proxy['port']}"
-    )
-
-    proxies = {
-        "http": proxy_url,
-        "https": proxy_url
-    }
-
-    test_url = get_random_test_url()
-
-    start = time.time()
-
-    try:
-
-        r = requests.get(
-            test_url,
-            proxies=proxies,
-            timeout=REQUEST_TIMEOUT
-        )
-
-        latency = round((time.time() - start) * 1000)
-
-        if r.status_code in [200, 204]:
-
-            return {
-                "alive": True,
-                "latency": latency
-            }
-
-        return {
-            "alive": False,
-            "latency": None
-        }
-
-    except:
-
-        return {
-            "alive": False,
-            "latency": None
-        }
 
 # =========================================================
 # SAVE STATE
@@ -202,7 +157,134 @@ def get_devices_by_group(group_name):
 
 def format_devices(device_list):
 
+    if not device_list:
+
+        return "None"
+
     return "\n".join([f"• {x}" for x in device_list])
+
+# =========================================================
+# TEST PROXY
+# =========================================================
+
+def test_proxy(proxy):
+
+    proxy_type = proxy["type"].lower()
+
+    # =====================================================
+    # SCHEME
+    # =====================================================
+
+    if proxy_type == "socks5":
+
+        scheme = "socks5h"
+
+    elif proxy_type == "socks4":
+
+        scheme = "socks4"
+
+    elif proxy_type in ["http", "https"]:
+
+        scheme = "http"
+
+    else:
+
+        log(f"UNSUPPORTED PROXY TYPE: {proxy_type}")
+
+        return {
+            "alive": False,
+            "latency": None
+        }
+
+    # =====================================================
+    # BUILD PROXY URL
+    # =====================================================
+
+    proxy_url = (
+        f"{scheme}://"
+        f"{proxy['user']}:{proxy['pass']}@"
+        f"{proxy['proxy']}:{proxy['port']}"
+    )
+
+    proxies = {
+        "http": proxy_url,
+        "https": proxy_url
+    }
+
+    test_url = get_random_test_url()
+
+    start = time.time()
+
+    try:
+
+        r = requests.get(
+            test_url,
+            proxies=proxies,
+            timeout=REQUEST_TIMEOUT
+        )
+
+        latency = round((time.time() - start) * 1000)
+
+        if r.status_code in [200, 204]:
+
+            return {
+                "alive": True,
+                "latency": latency
+            }
+
+        log(
+            f"BAD STATUS "
+            f"{proxy['proxy']}:{proxy['port']} "
+            f"-> {r.status_code}"
+        )
+
+        return {
+            "alive": False,
+            "latency": None
+        }
+
+    except requests.exceptions.ConnectTimeout:
+
+        log(
+            f"CONNECT TIMEOUT "
+            f"{proxy['proxy']}:{proxy['port']}"
+        )
+
+    except requests.exceptions.ReadTimeout:
+
+        log(
+            f"READ TIMEOUT "
+            f"{proxy['proxy']}:{proxy['port']}"
+        )
+
+    except requests.exceptions.ProxyError as e:
+
+        log(
+            f"PROXY ERROR "
+            f"{proxy['proxy']}:{proxy['port']} "
+            f"-> {e}"
+        )
+
+    except requests.exceptions.ConnectionError as e:
+
+        log(
+            f"CONNECTION ERROR "
+            f"{proxy['proxy']}:{proxy['port']} "
+            f"-> {e}"
+        )
+
+    except Exception as e:
+
+        log(
+            f"UNKNOWN ERROR "
+            f"{proxy['proxy']}:{proxy['port']} "
+            f"-> {e}"
+        )
+
+    return {
+        "alive": False,
+        "latency": None
+    }
 
 # =========================================================
 # CHECK GROUP
@@ -213,7 +295,7 @@ def check_group(group_name, group):
     log(f"CHECK GROUP: {group_name}")
 
     # =====================================================
-    # CHECK MAIN
+    # MAIN
     # =====================================================
 
     main_result = test_proxy(group["main"])
@@ -234,10 +316,10 @@ def check_group(group_name, group):
     log(f"{group_name} MAIN DEAD")
 
     # =====================================================
-    # CHECK BACKUPS
+    # BACKUPS
     # =====================================================
 
-    backups = group["backups"]
+    backups = group.get("backups", [])
 
     for i, backup in enumerate(backups, start=1):
 
@@ -261,7 +343,7 @@ def check_group(group_name, group):
             }
 
     # =====================================================
-    # ALL DEAD
+    # DEAD
     # =====================================================
 
     log(f"{group_name} ALL PROXIES DEAD")
@@ -273,7 +355,7 @@ def check_group(group_name, group):
     }
 
 # =========================================================
-# BUILD STARTUP MESSAGE
+# STARTUP MESSAGE
 # =========================================================
 
 def build_startup_message(all_status):
@@ -313,16 +395,12 @@ def build_startup_message(all_status):
     return msg
 
 # =========================================================
-# BUILD ALERT MESSAGE
+# ALERT MESSAGE
 # =========================================================
 
 def build_alert_message(group_name, status, device_text):
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-    # =====================================================
-    # RECOVERED
-    # =====================================================
 
     if status["status"] == "MAIN":
 
@@ -336,10 +414,6 @@ def build_alert_message(group_name, status, device_text):
             f"{device_text}"
         )
 
-    # =====================================================
-    # FAILOVER
-    # =====================================================
-
     if status["status"] == "BACKUP":
 
         return (
@@ -352,10 +426,6 @@ def build_alert_message(group_name, status, device_text):
             f"Devices:\n"
             f"{device_text}"
         )
-
-    # =====================================================
-    # CRITICAL
-    # =====================================================
 
     return (
         f"🚨 CRITICAL\n\n"
@@ -388,7 +458,10 @@ while True:
 
         for group_name, group in groups.items():
 
-            current_status = check_group(group_name, group)
+            current_status = check_group(
+                group_name,
+                group
+            )
 
             startup_status[group_name] = current_status
 
@@ -411,7 +484,7 @@ while True:
                 continue
 
             # =================================================
-            # STATUS CHANGED
+            # CHANGED
             # =================================================
 
             changed = current_status != old_status
@@ -440,12 +513,14 @@ while True:
                 log(f"NO CHANGE: {group_name}")
 
         # =====================================================
-        # SEND FIRST RUN STATUS
+        # FIRST RUN REPORT
         # =====================================================
 
         if first_run:
 
-            startup_msg = build_startup_message(startup_status)
+            startup_msg = build_startup_message(
+                startup_status
+            )
 
             send_telegram(startup_msg)
 
