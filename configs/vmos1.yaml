@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "210.245.34.106"
-    port: 51706
-    username: "s1mp"
-    password: "cpdg"
+    server: "103.166.184.80"
+    port: 36142
+    username: "phogapro"
+    password: "phogapro"
     udp: true
 
   - name: BACKUP1

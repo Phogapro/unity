@@ -160,10 +160,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 51706,
-        "user": "s1mp",
-        "pass": "cpdg"
+        "proxy": "103.166.184.80",
+        "port": 36142,
+        "user": "phogapro",
+        "pass": "phogapro"
       },
 
       "backups": [
