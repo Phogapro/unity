@@ -284,10 +284,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 43744,
-        "user": "lkfg",
-        "pass": "28eu"
+        "proxy": "171.246.180.30",
+        "port": 36860,
+        "user": "modvip1",
+        "pass": "njawotkxotgzmw=="
       },
 
       "backups": [
@@ -315,10 +315,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 51179,
-        "user": "i4ty",
-        "pass": "2g0g"
+        "proxy": "171.241.76.96",
+        "port": 25649,
+        "user": "modvip2",
+        "pass": "mdk4nzu4ndq3"
       },
 
       "backups": [

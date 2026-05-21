@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "210.245.34.106"
-    port: 51179
-    username: "i4ty"
-    password: "2g0g"
+    server: "171.241.76.96"
+    port: 25649
+    username: "modvip2"
+    password: "mdk4nzu4ndq3"
     udp: true
 
   - name: BACKUP1
