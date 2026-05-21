@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "14.237.203.12914.237.203.129"
+    server: "14.237.203.129"
     port: 3991
     username: "modvip4"
     password: "njyzmdm5mzg1ng=="
@@ -23,7 +23,7 @@ proxies:
     udp: true
 
   - name: BACKUP2
-    type: "http"
+    type: "socks5"
     server: "203.175.97.116"
     port: 20584
     username: "phoga"

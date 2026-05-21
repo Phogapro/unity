@@ -253,7 +253,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "14.237.203.12914.237.203.129",
+        "proxy": "14.237.203.129",
         "port": 3991,
         "user": "modvip4",
         "pass": "njyzmdm5mzg1ng=="
