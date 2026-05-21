@@ -23,7 +23,7 @@ proxies:
     udp: true
 
   - name: BACKUP2
-    type: "socks5"
+    type: "http"
     server: "203.175.97.116"
     port: 20584
     username: "phoga"
