@@ -5,10 +5,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 47146,
-        "user": "zcqz",
-        "pass": "0hjx"
+        "proxy": "14.225.217.69",
+        "port": 57440,
+        "user": "lAYGm52M",
+        "pass": "SzuPA4eDfc"
       },
 
       "backups": [
@@ -36,10 +36,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 41820,
-        "user": "lm7s",
-        "pass": "f5gh"
+        "proxy": "14.225.217.69",
+        "port": 57495,
+        "user": "fz5oe4jj",
+        "pass": "rNktLInKPS"
       },
 
       "backups": [
@@ -67,10 +67,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 53322,
-        "user": "nz73",
-        "pass": "lhpy"
+        "proxy": "14.225.217.69",
+        "port": 57501,
+        "user": "ZXL6gR0L",
+        "pass": "tq8pya8GWh"
       },
 
       "backups": [
@@ -98,10 +98,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "210.245.34.106",
-        "port": 46336,
-        "user": "4lur",
-        "pass": "8w9d"
+        "proxy": "103.82.192.234",
+        "port": 19803,
+        "user": "phogapro",
+        "pass": "phogapro"
       },
 
       "backups": [
