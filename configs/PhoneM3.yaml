@@ -7,11 +7,11 @@ log-level: info
 proxies:
 
   - name: MAIN
-    type: "socks5"
-    server: "160.250.166.88"
-    port: 20433
-    username: "phoga1"
-    password: "Phoga654321"
+    type: "http"
+    server: "103.82.24.31"
+    port: 30687
+    username: "phogapro"
+    password: "phogapro"
     udp: true
 
   - name: BACKUP1
@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "14.241.72.253"
-    port: 17862
-    username: "IxibFI"
-    password: "KiYaaM"
+    server: "171.246.99.152"
+    port: 8045
+    username: "modvip5"
+    password: "mje2nju4njk2"
     udp: true
 
 

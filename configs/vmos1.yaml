@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "210.245.34.106"
-    port: 42575
-    username: "a7j1"
-    password: "d1l4"
+    server: "14.225.217.69"
+    port: 57593
+    username: "4Tafn8m9"
+    password: "bZniM3WV01"
     udp: true
 
   - name: BACKUP2
-    type: "http"
-    server: "103.82.27.114"
-    port: 12500
-    username: "Phogapro"
-    password: "Phogapr0123"
+    type: "socks5"
+    server: "160.250.166.88"
+    port: 20091
+    username: "jpRZLq"
+    password: "vUPONK"
     udp: true
 
 

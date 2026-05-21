@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "103.82.27.114"
-    port: 12147
-    username: "Phogapro"
-    password: "8vED5g6ItlWu43"
+    server: "171.246.99.152"
+    port: 8045
+    username: "modvip5"
+    password: "mje2nju4njk2"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "222.255.180.113"
-    port: 38872
-    username: "phogapro"
-    password: "phogapro"
+    server: "103.82.27.114"
+    port: 12147
+    username: "Phogapro"
+    password: "8vED5g6ItlWu43"
     udp: true
 
 

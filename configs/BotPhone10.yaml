@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "118.70.171.101"
-    port: 46631
-    username: "dgfpWf"
-    password: "THOsOf"
+    server: "210.245.34.106"
+    port: 41820
+    username: "0uxs"
+    password: "lpkc"
     udp: true
 
   - name: BACKUP2
