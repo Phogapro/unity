@@ -24,9 +24,9 @@
         {
           "type": "http",
           "proxy": "210.245.34.106",
-          "port": 43744,
-          "user": "vrtwwer",
-          "pass": "3ef132"
+          "port": 46140,
+          "user": "3r5t",
+          "pass": "bj9o"
         }
 
       ]
@@ -85,10 +85,41 @@
 
         {
           "type": "http",
-          "proxy": "210.245.34.106",
-          "port": 41820,
-          "user": "0uxs",
-          "pass": "lpkc"
+          "proxy": "113.177.130.85",
+          "port": 51179,
+          "user": "bi7z",
+          "pass": "t3nk"
+        }
+
+      ]
+    },
+	
+	"GROUP_BoxPhone10x13": {
+
+      "main": {
+        "type": "http",
+        "proxy": "113.177.130.85",
+        "port": 46336,
+        "user": "yhbb",
+        "pass": "4bgv"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "103.166.184.186",
+          "port": 27109,
+          "user": "phogapro",
+          "pass": "phogapro"
+        },
+
+        {
+		  "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12100,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
         }
 
       ]
@@ -125,101 +156,7 @@
       ]
     },
 	
-	"GROUP_PRIVATE_Bot225": {
-
-      "main": {
-        "type": "http",
-        "proxy": "103.155.216.231",
-        "port": 12100,
-        "user": "Phogapro",
-        "pass": "Phogapr0123"
-      },
-
-      "backups": [
-
-        {
-          "type": "http",
-          "proxy": "210.245.34.106",
-          "port": 42575,
-          "user": "a7j1",
-          "pass": "d1l4"
-        },
-
-        {
-          "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 57594,
-          "user": "HJMFD7dH",
-          "pass": "6zwRq5pEHZ"
-        }
-     
-      ]
-    },
-
-"GROUP_PRIVATE_Vmos1": {
-
-      "main": {
-        "type": "http",
-        "proxy": "103.166.184.80",
-        "port": 36142,
-        "user": "phogapro",
-        "pass": "phogapro"
-      },
-
-      "backups": [
-
-        {
-          "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 57593,
-          "user": "4Tafn8m9",
-          "pass": "bZniM3WV01"
-        },
-
-        {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20091,
-          "user": "jpRZLq",
-          "pass": "vUPONK"
-        }
-     
-      ]
-    },
-
-"GROUP_PRIVATE_Vmos2": {
-
-      "main": {
-        "type": "http",
-        "proxy": "103.82.195.219",
-        "port": 16184,
-        "user": "phogapro",
-        "pass": "phogapro"
-      },
-
-      "backups": [
-
-        {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20433,
-          "user": "phoga1",
-          "pass": "Phoga654321"
-        },
-
-        {
-          "type": "http",
-          "proxy": "27.65.62.15",
-          "port": 57350,
-          "user": "Phogapro01",
-          "pass": "VY46jDhjCj"
-        }
-     
-      ]
-    },
-
-
-	"GROUP_PRIVATE_BoxPhone13": {
+"GROUP_PRIVATE_BoxPhone13": {
 
       "main": {
         "type": "http",
@@ -341,6 +278,193 @@
         }
      
       ]
+    },	
+	
+
+"GROUP_PRIVATE_Vmos1": {
+
+      "main": {
+        "type": "http",
+        "proxy": "103.166.184.80",
+        "port": 36142,
+        "user": "phogapro",
+        "pass": "phogapro"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "14.225.217.69",
+          "port": 57593,
+          "user": "4Tafn8m9",
+          "pass": "bZniM3WV01"
+        },
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20091,
+          "user": "jpRZLq",
+          "pass": "vUPONK"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos2": {
+
+      "main": {
+        "type": "http",
+        "proxy": "103.82.195.219",
+        "port": 16184,
+        "user": "phogapro",
+        "pass": "phogapro"
+      },
+
+      "backups": [
+
+        {
+          "type": "socks5",
+          "proxy": "160.250.166.88",
+          "port": 20433,
+          "user": "phoga1",
+          "pass": "Phoga654321"
+        },
+
+        {
+          "type": "http",
+          "proxy": "103.166.184.186",
+          "port": 27109,
+          "user": "phogapro",
+          "pass": "phogapro"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos3": {
+
+      "main": {
+        "type": "http",
+        "proxy": "171.241.76.96",
+        "port": 25649,
+        "user": "modvip2",
+        "pass": "mdk4nzu4ndq3"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "113.177.130.85",
+          "port": 51179,
+          "user": "bi7z",
+          "pass": "t3nk"
+        },
+
+        {
+          "type": "http",
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "phogapro",
+        "pass": "phogapro"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos4": {
+
+      "main": {
+        "type": "http",
+        "proxy": "171.246.180.30",
+        "port": 36860,
+        "user": "modvip1",
+        "pass": "njawotkxotgzmw=="
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "210.245.34.106",
+          "port": 46140,
+          "user": "3r5t",
+          "pass": "bj9o"
+        },
+
+        {
+          "type": "http",
+          "proxy": "103.82.192.234",
+          "port": 19803,
+          "user": "phogapro",
+          "pass": "phogapro"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos5": {
+
+      "main": {
+        "type": "http",
+        "proxy": "1.54.188.141",
+        "port": 59399,
+        "user": "modvip3",
+        "pass": "mdc2mjk3ndk4mtq0"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "222.255.180.113",
+          "port": 38872,
+          "user": "phogapro",
+          "pass": "phogapro"
+        },
+
+        {
+          "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12500,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
+        }
+     
+      ]
+    },
+
+"GROUP_PRIVATE_Vmos6": {
+
+      "main": {
+        "type": "http",
+        "proxy": "14.237.203.129",
+        "port": 3991,
+        "user": "modvip4",
+        "pass": "njyzmdm5mzg1ng=="
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12147,
+          "user": "Phogapro",
+          "pass": "8vED5g6ItlWu43"
+        },
+
+        {
+          "type": "http",
+          "proxy": "171.246.99.152",
+          "port": 8045,
+          "user": "modvip5",
+          "pass": "mje2nju4njk2"
+        }
+     
+      ]
     },
 	
 		
@@ -395,9 +519,12 @@
 	"BotPhone14": "GROUP_BoxPhone14x16",
 	"BotPhone15": "GROUP_BoxPhone14x16",
 	"BotPhone16": "GROUP_BoxPhone14x16",
-	"Bot225": "GROUP_PRIVATE_Bot225",
 	"vmos1": "GROUP_PRIVATE_Vmos1",
 	"Vmos2": "GROUP_PRIVATE_Vmos2",
+	"Vmos3": "GROUP_PRIVATE_Vmos3",
+	"Vmos4": "GROUP_PRIVATE_Vmos4",
+	"Vmos5": "GROUP_PRIVATE_Vmos5",
+	"Vmos6": "GROUP_PRIVATE_Vmos6",
     "PhoneM3": "GROUP_PRIVATE_PhoneM3"
 
   }
