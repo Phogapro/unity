@@ -8,18 +8,18 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "171.241.76.96"
+    server: "171.241.78.191"
     port: 25649
-    username: "modvip2"
-    password: "mdk4nzu4ndq3"
+    username: "modvip1.1"
+    password: "ewtreytrey12341"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "113.177.130.85"
-    port: 51179
-    username: "bi7z"
-    password: "t3nk"
+    server: "210.245.34.106"
+    port: 43744
+    username: "vrtwwer"
+    password: "3ef132"
     udp: true
 
   - name: BACKUP2

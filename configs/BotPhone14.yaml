@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "171.246.99.152"
+    server: "171.252.33.175"
     port: 8045
     username: "modvip5"
     password: "mje2nju4njk2"
