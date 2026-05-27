@@ -10,8 +10,8 @@ proxies:
     type: "http"
     server: "103.82.192.234"
     port: 19803
-    username: "phogapro"
-    password: "phogapro"
+    username: "Macdinh1qu6"
+    password: "1779867303"
     udp: true
 
   - name: BACKUP1
