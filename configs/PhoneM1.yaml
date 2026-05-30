@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "103.82.27.114"
+    server: "124.158.6.175"
     port: 12100
     username: "Phogapro"
     password: "Phogapr0123"
