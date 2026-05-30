@@ -8,26 +8,26 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "103.166.184.65"
-    port: 22649
-    username: "21yinew"
-    password: "21yinew"
+    server: "222.255.180.113"
+    port: 38872
+    username: "Macdinhl4h3"
+    password: "1779856168"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "103.82.27.114"
-    port: 12147
-    username: "Phogapro"
-    password: "8vED5g6ItlWu43"
+    server: "14.250.78.12"
+    port: 14270
+    username: "modvipbk1"
+    password: "otm1nzqzotm2"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "171.246.99.152"
-    port: 8045
-    username: "modvip5"
-    password: "mje2nju4njk2"
+    server: "116.109.98.85"
+    port: 63721
+    username: "unityhelpdesk"
+    password: "@helpdesk@123"
     udp: true
 
 

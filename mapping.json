@@ -273,10 +273,10 @@
 
         {
           "type": "http",
-          "proxy": "103.82.192.234",
-          "port": 19803,
-          "user": "phogapro",
-          "pass": "phogapro"
+          "proxy": "116.109.98.85",
+          "port": 42478,
+          "user": "unityhelpdesk",
+          "pass": "@helpdesk@123"
         }
      
       ]
@@ -296,18 +296,18 @@
 
         {
           "type": "http",
-          "proxy": "222.255.180.113",
-          "port": 38872,
-          "user": "phogapro",
-          "pass": "phogapro"
+          "proxy": "103.179.188.222",
+          "port": 23297,
+          "user": "backup3",
+          "pass": "backup3"
         },
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12500,
-          "user": "Phogapro",
-          "pass": "Phogapr0123"
+          "proxy": "116.109.98.85",
+          "port": 56361,
+          "user": "unityhelpdesk",
+          "pass": "@helpdesk@123"
         }
      
       ]
@@ -345,32 +345,32 @@
     },
 	
 		
-    "GROUP_PRIVATE_PhoneM3": {
+    "GROUP_PRIVATE_PhoneB2": {
 
       "main": {
         "type": "http",
-        "proxy": "103.166.184.65",
-        "port": 22649,
-        "user": "21yinew",
-        "pass": "21yinew"
+        "proxy": "222.255.180.113",
+        "port": 38872,
+        "user": "Macdinhl4h3",
+        "pass": "1779856168"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12147,
-          "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "proxy": "14.250.78.12",
+          "port": 14270,
+          "user": "modvipbk1",
+          "pass": "otm1nzqzotm2"
         },
 
         {
           "type": "http",
-          "proxy": "171.246.99.152",
-          "port": 8045,
-          "user": "modvip5",
-          "pass": "mje2nju4njk2"
+          "proxy": "116.109.98.85",
+          "port": 63721,
+          "user": "unityhelpdesk",
+          "pass": "@helpdesk@123"
         }
 
       ]
@@ -402,7 +402,7 @@
 	"Vmos4": "GROUP_PRIVATE_Vmos4",
 	"Vmos5": "GROUP_PRIVATE_Vmos5",
 	"Vmos6": "GROUP_PRIVATE_Vmos6",
-    "PhoneM3": "GROUP_PRIVATE_PhoneM3"
+    "PhoneB2": "GROUP_PRIVATE_PhoneB2"
 
   }
 }

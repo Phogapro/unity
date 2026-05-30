@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "222.255.180.113"
-    port: 38872
-    username: "Macdinhl4h3"
-    password: "1779856168"
+    server: "103.179.188.222"
+    port: 23297
+    username: "backup3"
+    password: "backup3"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "103.82.27.114"
-    port: 12500
-    username: "Phogapro"
-    password: "Phogapr0123"
+    server: "116.109.98.85"
+    port: 56361
+    username: "unityhelpdesk"
+    password: "@helpdesk@123"
     udp: true
 
 
