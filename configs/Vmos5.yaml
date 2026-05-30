@@ -18,8 +18,8 @@ proxies:
     type: "http"
     server: "222.255.180.113"
     port: 38872
-    username: "phogapro"
-    password: "phogapro"
+    username: "Macdinhl4h3"
+    password: "1779856168"
     udp: true
 
   - name: BACKUP2
