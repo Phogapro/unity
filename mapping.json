@@ -344,6 +344,36 @@
       ]
     },
 	
+	"GROUP_PRIVATE_PhoneM1": {
+
+      "main": {
+        "type": "http",
+        "proxy": "103.166.184.65",
+        "port": 22649,
+        "user": "21yinew",
+        "pass": "21yinew"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "103.82.27.114",
+          "port": 12100,
+          "user": "Phogapro",
+          "pass": "Phogapr0123"
+        },
+
+        {
+          "type": "http",
+          "proxy": "116.109.106.85",
+          "port": 56434,
+          "user": "unityhelpdesk",
+          "pass": "@helpdesk@123"
+        }
+     
+      ]
+    },
 		
     "GROUP_PRIVATE_PhoneB2": {
 
@@ -402,6 +432,7 @@
 	"Vmos4": "GROUP_PRIVATE_Vmos4",
 	"Vmos5": "GROUP_PRIVATE_Vmos5",
 	"Vmos6": "GROUP_PRIVATE_Vmos6",
+	"PhoneM1": "GROUP_PRIVATE_PhoneM1",
     "PhoneB2": "GROUP_PRIVATE_PhoneB2"
 
   }
