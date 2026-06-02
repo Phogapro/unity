@@ -14,11 +14,11 @@
       "backups": [
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20091,
-          "user": "jpRZLq",
-          "pass": "vUPONK"
+          "type": "http",
+          "proxy": "171.246.104.198",
+          "port": 58281,
+          "user": "mmobackup01",
+          "pass": "mty0mjiyndux"
         },
 
         {
@@ -46,10 +46,10 @@
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12500,
-          "user": "Phogapro",
-          "pass": "Phogapr0123"
+          "proxy": "14.187.220.167",
+          "port": 45773,
+          "user": "mmobackup3",
+          "pass": "ndy0mdkymdy1"
         },
 
         {
@@ -116,10 +116,10 @@
 
         {
 		  "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12100,
-          "user": "Phogapro",
-          "pass": "Phogapr0123"
+          "proxy": "42.113.31.71",
+          "port": 64126,
+          "user": "mmobackup02",
+          "pass": "mdi5odewmzm1"
         }
 
       ]
@@ -331,11 +331,11 @@
         },
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20091,
-          "user": "jpRZLq",
-          "pass": "vUPONK"
+          "type": "http",
+          "proxy": "171.246.104.198",
+          "port": 58281,
+          "user": "mmobackup01",
+          "pass": "mty0mjiyndux"
         }
      
       ]
@@ -510,10 +510,10 @@
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12100,
-          "user": "Phogapro",
-          "pass": "Phogapr0123"
+          "proxy": "42.113.31.71",
+          "port": 64126,
+          "user": "mmobackup02",
+          "pass": "mdi5odewmzm1"
         },
 
         {

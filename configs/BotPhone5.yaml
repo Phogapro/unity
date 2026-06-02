@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "103.82.27.114"
-    port: 12500
-    username: "Phogapro"
-    password: "Phogapr0123"
+    server: "14.187.220.167"
+    port: 45773
+    username: "mmobackup3"
+    password: "ndy0mdkymdy1"
     udp: true
 
   - name: BACKUP2
