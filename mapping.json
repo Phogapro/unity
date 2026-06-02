@@ -273,7 +273,7 @@
 
         {
           "type": "http",
-          "proxy": "116.109.98.85",
+          "proxy": "171.248.243.187",
           "port": 42478,
           "user": "unityhelpdesk",
           "pass": "@helpdesk@123"
@@ -286,7 +286,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "1.54.188.141",
+        "proxy": "42.113.58.29",
         "port": 59399,
         "user": "modvip3",
         "pass": "mdc2mjk3ndk4mtq0"
@@ -304,7 +304,7 @@
 
         {
           "type": "http",
-          "proxy": "116.109.98.85",
+          "proxy": "171.248.243.187",
           "port": 56361,
           "user": "unityhelpdesk",
           "pass": "@helpdesk@123"
@@ -366,7 +366,7 @@
 
         {
           "type": "http",
-          "proxy": "116.109.106.85",
+          "proxy": "27.65.255.98",
           "port": 56434,
           "user": "unityhelpdesk",
           "pass": "@helpdesk@123"
@@ -397,7 +397,7 @@
 
         {
           "type": "http",
-          "proxy": "116.109.98.85",
+          "proxy": "171.248.243.187",
           "port": 63721,
           "user": "unityhelpdesk",
           "pass": "@helpdesk@123"

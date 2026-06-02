@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "116.109.98.85"
+    server: "171.248.243.187"
     port: 63721
     username: "unityhelpdesk"
     password: "@helpdesk@123"

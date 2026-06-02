@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "1.54.188.141"
+    server: "42.113.58.29"
     port: 59399
     username: "modvip3"
     password: "mdc2mjk3ndk4mtq0"
@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "116.109.98.85"
+    server: "171.248.243.187"
     port: 56361
     username: "unityhelpdesk"
     password: "@helpdesk@123"
