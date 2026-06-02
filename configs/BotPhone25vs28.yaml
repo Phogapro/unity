@@ -1,0 +1,45 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "103.82.24.31"
+    port: 19734
+    username: "BotPhone25x28"
+    password: "BotPhone25x28"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "14.225.217.69"
+    port: 43053
+    username: "AQUCFCeG"
+    password: "hM63oAbOpb"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "171.246.121.156"
+    port: 45044
+    username: "modvipbk2"
+    password: "otc2ndcxmzk5"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+      - BACKUP2
+
+rules:
+  - MATCH,AUTO

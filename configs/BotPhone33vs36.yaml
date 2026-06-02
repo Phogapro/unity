@@ -1,0 +1,45 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "42.116.219.58"
+    port: 33102
+    username: "ue0283caa"
+    password: "881f7bd1e2e4a6bd"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "171.246.121.156"
+    port: 45044
+    username: "modvipbk2"
+    password: "otc2ndcxmzk5"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "103.179.189.197"
+    port: 31512
+    username: "backup4"
+    password: "backup4"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+      - BACKUP2
+
+rules:
+  - MATCH,AUTO
