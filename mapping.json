@@ -15,10 +15,10 @@
 
         {
           "type": "http",
-          "proxy": "171.246.104.198",
-          "port": 58281,
-          "user": "mmobackup01",
-          "pass": "mty0mjiyndux"
+          "proxy": "113.167.46.121",
+          "port": 14006,
+          "user": "useruYf",
+          "pass": "fd0eNV6R"
         },
 
         {
@@ -46,10 +46,10 @@
 
         {
           "type": "http",
-          "proxy": "14.187.220.167",
-          "port": 45773,
-          "user": "mmobackup3",
-          "pass": "ndy0mdkymdy1"
+          "proxy": "113.167.46.121",
+          "port": 14027,
+          "user": "userZyQ",
+          "pass": "waBJgzEk"
         },
 
         {
@@ -332,10 +332,10 @@
 
         {
           "type": "http",
-          "proxy": "171.246.104.198",
-          "port": 58281,
-          "user": "mmobackup01",
-          "pass": "mty0mjiyndux"
+          "proxy": "113.167.46.121",
+          "port": 14006,
+          "user": "useruYf",
+          "pass": "fd0eNV6R"
         }
      
       ]

@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "171.246.104.198"
-    port: 58281
-    username: "mmobackup01"
-    password: "mty0mjiyndux"
+    server: "113.167.46.121"
+    port: 14006
+    username: "useruYf"
+    password: "fd0eNV6R"
     udp: true
 
 
