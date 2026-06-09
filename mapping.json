@@ -116,10 +116,10 @@
 
         {
 		  "type": "http",
-          "proxy": "42.113.31.71",
-          "port": 64126,
-          "user": "mmobackup02",
-          "pass": "mdi5odewmzm1"
+          "proxy": "42.115.149.197",
+          "port": 36943,
+          "user": "u4f9f6e31",
+          "pass": "809b09d09ec5363e"
         }
 
       ]
@@ -510,10 +510,10 @@
 
         {
           "type": "http",
-          "proxy": "42.113.31.71",
-          "port": 64126,
-          "user": "mmobackup02",
-          "pass": "mdi5odewmzm1"
+          "proxy": "42.115.149.197",
+          "port": 36943,
+          "user": "u4f9f6e31",
+          "pass": "809b09d09ec5363e"
         },
 
         {
