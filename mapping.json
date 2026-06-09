@@ -170,10 +170,10 @@
 
         {
           "type": "http",
-          "proxy": "42.118.130.47",
-          "port": 39553,
-          "user": "u4940ac36",
-          "pass": "6275b532598fe5c0"
+          "proxy": "113.167.46.121",
+          "port": 14028,
+          "user": "userGxd",
+          "pass": "D5R6uMtL"
         },
 
         {
@@ -239,10 +239,10 @@
 
         {
 		  "type": "http",
-          "proxy": "42.118.130.47",
-          "port": 39553,
-          "user": "u4940ac36",
-          "pass": "6275b532598fe5c0"
+          "proxy": "113.167.46.121",
+          "port": 14028,
+          "user": "userGxd",
+          "pass": "D5R6uMtL"
         }
 
       ]
