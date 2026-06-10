@@ -425,10 +425,10 @@
 
         {
           "type": "http",
-          "proxy": "171.248.243.187",
-          "port": 42478,
-          "user": "unityhelpdesk",
-          "pass": "@helpdesk@123"
+          "proxy": "14.250.75.12",
+          "port": 57958,
+          "user": "94pg2",
+          "pass": "AyTadKHGk5"
         }
      
       ]
@@ -456,10 +456,10 @@
 
         {
           "type": "http",
-          "proxy": "171.248.243.187",
-          "port": 56361,
-          "user": "unityhelpdesk",
-          "pass": "@helpdesk@123"
+          "proxy": "14.250.75.12",
+          "port": 63376,
+          "user": "94pg3",
+          "pass": "ZHpkramgU9"
         }
      
       ]
@@ -549,10 +549,10 @@
 
         {
           "type": "http",
-          "proxy": "171.248.243.187",
-          "port": 63721,
-          "user": "unityhelpdesk",
-          "pass": "@helpdesk@123"
+          "proxy": "14.250.75.12",
+          "port": 27717,
+          "user": "94pg1",
+          "pass": "ffJc122wRe"
         }
 
       ]
