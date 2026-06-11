@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "113.177.130.85"
-    port: 51179
-    username: "bi7z"
-    password: "t3nk"
+    server: "103.166.184.186"
+    port: 27109
+    username: "phogapro"
+    password: "phogapro"
     udp: true
 
 

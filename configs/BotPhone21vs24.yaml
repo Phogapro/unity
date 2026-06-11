@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "42.117.91.212"
+    server: "42.117.91.68"
     port: 13810
     username: "boxphone21x24"
     password: "ntm2njcxndcxna=="

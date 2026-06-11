@@ -85,10 +85,10 @@
 
         {
           "type": "http",
-          "proxy": "113.177.130.85",
-          "port": 51179,
-          "user": "bi7z",
-          "pass": "t3nk"
+          "proxy": "103.166.184.186",
+          "port": 27109,
+          "user": "phogapro",
+          "pass": "phogapro"
         }
 
       ]
@@ -160,7 +160,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.117.91.212",
+        "proxy": "42.117.91.68",
         "port": 13810,
         "user": "boxphone21x24",
         "pass": "ntm2njcxndcxna=="
