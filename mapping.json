@@ -147,10 +147,10 @@
 
         {
 		  "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12147,
-          "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "proxy": "160.250.166.88",
+          "port": 20064,
+          "user": "backup3",
+          "pass": "VEuJrW"
         }
 
       ]
@@ -479,10 +479,10 @@
 
         {
           "type": "http",
-          "proxy": "103.82.27.114",
-          "port": 12147,
-          "user": "Phogapro",
-          "pass": "8vED5g6ItlWu43"
+          "proxy": "160.250.166.88",
+          "port": 20064,
+          "user": "backup3",
+          "pass": "VEuJrW"
         },
 
         {
