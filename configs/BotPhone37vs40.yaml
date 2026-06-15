@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "118.69.98.8"
-    port: 33564
-    username: "u6a1c9b24"
-    password: "73236a4a3c698bcc"
+    server: "42.115.149.108"
+    port: 38644
+    username: "u4db5ddbf"
+    password: "784da382f73c48c1"
     udp: true
 
   - name: BACKUP1

@@ -15,7 +15,7 @@
 
         {
           "type": "http",
-          "proxy": "113.167.46.121",
+          "proxy": "113.176.39.25",
           "port": 14006,
           "user": "useruYf",
           "pass": "fd0eNV6R"
@@ -23,10 +23,10 @@
 
         {
           "type": "http",
-          "proxy": "1.54.14.48",
-          "port": 37465,
-          "user": "u842affeb",
-          "pass": "afe186ef0c754acf"
+          "proxy": "113.22.41.2",
+          "port": 37344,
+          "user": "udd9c2476",
+          "pass": "c9b6f8b1841eb592"
         }
 
       ]
@@ -46,7 +46,7 @@
 
         {
           "type": "http",
-          "proxy": "113.167.46.121",
+          "proxy": "113.176.39.25",
           "port": 14027,
           "user": "userZyQ",
           "pass": "waBJgzEk"
@@ -98,10 +98,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "113.22.68.43",
-        "port": 38033,
-        "user": "uf841dff7",
-        "pass": "020cdb8146509785"
+        "proxy": "113.22.68.211",
+        "port": 30181,
+        "user": "ua4cd7b53",
+        "pass": "ce60b6598c929407"
       },
 
       "backups": [
@@ -116,10 +116,10 @@
 
         {
 		  "type": "http",
-          "proxy": "42.115.149.197",
-          "port": 36943,
-          "user": "u4f9f6e31",
-          "pass": "809b09d09ec5363e"
+          "proxy": "171.252.33.175",
+          "port": 8045,
+          "user": "modvip5",
+          "pass": "mje2nju4njk2"
         }
 
       ]
@@ -170,7 +170,7 @@
 
         {
           "type": "http",
-          "proxy": "113.167.46.121",
+          "proxy": "113.176.39.25",
           "port": 14028,
           "user": "userGxd",
           "pass": "D5R6uMtL"
@@ -239,7 +239,7 @@
 
         {
 		  "type": "http",
-          "proxy": "113.167.46.121",
+          "proxy": "113.176.39.25",
           "port": 14028,
           "user": "userGxd",
           "pass": "D5R6uMtL"
@@ -252,10 +252,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.116.219.58",
-        "port": 33102,
-        "user": "ue0283caa",
-        "pass": "881f7bd1e2e4a6bd"
+        "proxy": "42.116.219.63",
+        "port": 30794,
+        "user": "ue99513d9",
+        "pass": "18ef20744bd8dbc3"
       },
 
       "backups": [
@@ -283,10 +283,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "118.69.98.8",
-        "port": 33564,
-        "user": "u6a1c9b24",
-        "pass": "73236a4a3c698bcc"
+        "proxy": "42.115.149.108",
+        "port": 38644,
+        "user": "u4db5ddbf",
+        "pass": "784da382f73c48c1"
       },
 
       "backups": [
@@ -332,7 +332,7 @@
 
         {
           "type": "http",
-          "proxy": "113.167.46.121",
+          "proxy": "113.176.39.25",
           "port": 14006,
           "user": "useruYf",
           "pass": "fd0eNV6R"
@@ -363,10 +363,10 @@
 
         {
           "type": "http",
-          "proxy": "1.55.232.206",
-          "port": 36381,
-          "user": "u7ad51416",
-          "pass": "7e73041c6988572e"
+          "proxy": "118.71.214.184",
+          "port": 35242,
+          "user": "u6b42d6d8",
+          "pass": "6cc5e1141fb88992"
         }
      
       ]
@@ -386,10 +386,10 @@
 
         {
           "type": "http",
-          "proxy": "1.55.232.206",
-          "port": 36381,
-          "user": "u7ad51416",
-          "pass": "7e73041c6988572e"
+          "proxy": "118.71.214.184",
+          "port": 35242,
+          "user": "u6b42d6d8",
+          "pass": "6cc5e1141fb88992"
         },
 
         {
@@ -417,10 +417,10 @@
 
         {
           "type": "http",
-          "proxy": "1.54.14.48",
-          "port": 37465,
-          "user": "u842affeb",
-          "pass": "afe186ef0c754acf"
+          "proxy": "113.22.41.2",
+          "port": 37344,
+          "user": "udd9c2476",
+          "pass": "c9b6f8b1841eb592"
         },
 
         {
@@ -487,10 +487,10 @@
 
         {
           "type": "http",
-          "proxy": "171.252.33.175",
-          "port": 8045,
-          "user": "modvip5",
-          "pass": "mje2nju4njk2"
+          "proxy": "42.113.91.95",
+          "port": 33949,
+          "user": "udf71d54d",
+          "pass": "78af594fa5e202d7"
         }
      
       ]
@@ -510,10 +510,10 @@
 
         {
           "type": "http",
-          "proxy": "42.115.149.197",
-          "port": 36943,
-          "user": "u4f9f6e31",
-          "pass": "809b09d09ec5363e"
+          "proxy": "42.113.91.95",
+          "port": 33949,
+          "user": "udf71d54d",
+          "pass": "78af594fa5e202d7"
         },
 
         {

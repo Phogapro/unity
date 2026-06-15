@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "113.167.46.121"
+    server: "113.176.39.25"
     port: 14006
     username: "useruYf"
     password: "fd0eNV6R"

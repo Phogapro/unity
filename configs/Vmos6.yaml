@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "171.252.33.175"
-    port: 8045
-    username: "modvip5"
-    password: "mje2nju4njk2"
+    server: "42.113.91.95"
+    port: 33949
+    username: "udf71d54d"
+    password: "78af594fa5e202d7"
     udp: true
 
 
