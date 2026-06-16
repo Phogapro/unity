@@ -425,7 +425,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.32",
+          "proxy": "14.250.74.211",
           "port": 57958,
           "user": "94pg2",
           "pass": "AyTadKHGk5"
@@ -456,7 +456,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.32",
+          "proxy": "14.250.74.211",
           "port": 63376,
           "user": "94pg3",
           "pass": "ZHpkramgU9"
@@ -487,10 +487,10 @@
 
         {
           "type": "http",
-          "proxy": "42.113.91.95",
-          "port": 33949,
-          "user": "udf71d54d",
-          "pass": "78af594fa5e202d7"
+          "proxy": "1.53.23.41",
+          "port": 33581,
+          "user": "u6d5e91d0",
+          "pass": "3d8e0d51841e4402"
         }
      
       ]
@@ -510,10 +510,10 @@
 
         {
           "type": "http",
-          "proxy": "42.113.91.95",
-          "port": 33949,
-          "user": "udf71d54d",
-          "pass": "78af594fa5e202d7"
+          "proxy": "1.53.23.41",
+          "port": 33581,
+          "user": "u6d5e91d0",
+          "pass": "3d8e0d51841e4402"
         },
 
         {
@@ -549,7 +549,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.32",
+          "proxy": "14.250.74.211",
           "port": 27717,
           "user": "94pg1",
           "pass": "ffJc122wRe"
