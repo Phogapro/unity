@@ -425,7 +425,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.211",
+          "proxy": "14.250.75.61",
           "port": 57958,
           "user": "94pg2",
           "pass": "AyTadKHGk5"
@@ -438,7 +438,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.113.58.29",
+        "proxy": "1.52.180.51",
         "port": 59399,
         "user": "modvip3",
         "pass": "mdc2mjk3ndk4mtq0"
@@ -456,7 +456,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.211",
+          "proxy": "14.250.75.61",
           "port": 63376,
           "user": "94pg3",
           "pass": "ZHpkramgU9"
@@ -541,7 +541,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.78.12",
+          "proxy": "14.250.79.164",
           "port": 14270,
           "user": "modvipbk1",
           "pass": "otm1nzqzotm2"
@@ -549,7 +549,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.74.211",
+          "proxy": "14.250.75.61",
           "port": 27717,
           "user": "94pg1",
           "pass": "ffJc122wRe"

@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "42.113.58.29"
+    server: "1.52.180.51"
     port: 59399
     username: "modvip3"
     password: "mdc2mjk3ndk4mtq0"
@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "14.250.74.211"
+    server: "14.250.75.61"
     port: 63376
     username: "94pg3"
     password: "ZHpkramgU9"

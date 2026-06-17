@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.250.78.12"
+    server: "14.250.79.164"
     port: 14270
     username: "modvipbk1"
     password: "otm1nzqzotm2"
@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "14.250.74.211"
+    server: "14.250.75.61"
     port: 27717
     username: "94pg1"
     password: "ffJc122wRe"
