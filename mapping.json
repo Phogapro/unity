@@ -425,7 +425,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.75.61",
+          "proxy": "14.250.75.253",
           "port": 57958,
           "user": "94pg2",
           "pass": "AyTadKHGk5"
@@ -456,7 +456,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.75.61",
+          "proxy": "14.250.75.253",
           "port": 63376,
           "user": "94pg3",
           "pass": "ZHpkramgU9"
@@ -549,7 +549,7 @@
 
         {
           "type": "http",
-          "proxy": "14.250.75.61",
+          "proxy": "14.250.75.253",
           "port": 27717,
           "user": "94pg1",
           "pass": "ffJc122wRe"
