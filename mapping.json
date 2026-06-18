@@ -283,10 +283,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.115.149.108",
-        "port": 38644,
-        "user": "u4db5ddbf",
-        "pass": "784da382f73c48c1"
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14004,
+        "user": "userh05",
+        "pass": "481PI3Jf"
       },
 
       "backups": [
@@ -315,9 +315,9 @@
       "main": {
         "type": "http",
         "proxy": "103.82.27.208",
-        "port": 35214,
-        "user": "phogapronewnew",
-        "pass": "phogapronewnew"
+        "port": 36452,
+        "user": "new",
+        "pass": "new"
       },
 
       "backups": [

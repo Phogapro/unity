@@ -9,9 +9,9 @@ proxies:
   - name: MAIN
     type: "http"
     server: "103.82.27.208"
-    port: 35214
-    username: "phogapronewnew"
-    password: "phogapronewnew"
+    port: 36452
+    username: "new"
+    password: "new"
     udp: true
 
   - name: BACKUP1
