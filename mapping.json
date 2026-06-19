@@ -252,10 +252,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.116.219.63",
-        "port": 30794,
-        "user": "ue99513d9",
-        "pass": "18ef20744bd8dbc3"
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14005,
+        "user": "userd5a",
+        "pass": "opSLpEgR"
       },
 
       "backups": [

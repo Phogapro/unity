@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "42.116.219.63"
-    port: 30794
-    username: "ue99513d9"
-    password: "18ef20744bd8dbc3"
+    server: "dancu01.trumproxy.vn"
+    port: 14005
+    username: "userd5a"
+    password: "opSLpEgR"
     udp: true
 
   - name: BACKUP1
