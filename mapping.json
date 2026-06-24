@@ -15,7 +15,7 @@
 
         {
           "type": "http",
-          "proxy": "113.176.39.25",
+          "proxy": "dancu01.trumproxy.vn",
           "port": 14006,
           "user": "useruYf",
           "pass": "fd0eNV6R"
@@ -23,10 +23,10 @@
 
         {
           "type": "http",
-          "proxy": "113.22.41.2",
-          "port": 37344,
-          "user": "udd9c2476",
-          "pass": "c9b6f8b1841eb592"
+          "proxy": "118.71.214.208",
+          "port": 33319,
+          "user": "ua69093f4",
+          "pass": "b2329df1a61695ba"
         }
 
       ]
@@ -46,7 +46,7 @@
 
         {
           "type": "http",
-          "proxy": "113.176.39.25",
+          "proxy": "dancu01.trumproxy.vn",
           "port": 14027,
           "user": "userZyQ",
           "pass": "waBJgzEk"
@@ -85,10 +85,10 @@
 
         {
           "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 27109,
-          "user": "phogapro",
-          "pass": "phogapro"
+          "proxy": "103.166.184.92",
+          "port": 13704,
+          "user": "new",
+          "pass": "new"
         }
 
       ]
@@ -98,20 +98,20 @@
 
       "main": {
         "type": "http",
-        "proxy": "113.22.68.211",
-        "port": 30181,
-        "user": "ua4cd7b53",
-        "pass": "ce60b6598c929407"
+        "proxy": "42.113.91.239",
+        "port": 36400,
+        "user": "uf886093d",
+        "pass": "dde5e61a9f0beaf4"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 27109,
-          "user": "phogapro",
-          "pass": "phogapro"
+          "proxy": "103.166.184.92",
+          "port": 13704,
+          "user": "new",
+          "pass": "new"
         },
 
         {
@@ -170,7 +170,7 @@
 
         {
           "type": "http",
-          "proxy": "113.176.39.25",
+          "proxy": "dancu01.trumproxy.vn",
           "port": 14028,
           "user": "userGxd",
           "pass": "D5R6uMtL"
@@ -239,7 +239,7 @@
 
         {
 		  "type": "http",
-          "proxy": "113.176.39.25",
+          "proxy": "dancu01.trumproxy.vn",
           "port": 14028,
           "user": "userGxd",
           "pass": "D5R6uMtL"
@@ -332,7 +332,7 @@
 
         {
           "type": "http",
-          "proxy": "113.176.39.25",
+          "proxy": "dancu01.trumproxy.vn",
           "port": 14006,
           "user": "useruYf",
           "pass": "fd0eNV6R"
@@ -363,10 +363,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.214.184",
-          "port": 35242,
-          "user": "u6b42d6d8",
-          "pass": "6cc5e1141fb88992"
+          "proxy": "113.22.41.127",
+          "port": 35129,
+          "user": "u56f3def9",
+          "pass": "a30c0d84c29b8e22"
         }
      
       ]
@@ -386,10 +386,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.214.184",
-          "port": 35242,
-          "user": "u6b42d6d8",
-          "pass": "6cc5e1141fb88992"
+          "proxy": "113.22.41.127",
+          "port": 35129,
+          "user": "u56f3def9",
+          "pass": "a30c0d84c29b8e22"
         },
 
         {
@@ -487,10 +487,10 @@
 
         {
           "type": "http",
-          "proxy": "1.53.23.41",
-          "port": 33581,
-          "user": "u6d5e91d0",
-          "pass": "3d8e0d51841e4402"
+          "proxy": "1.54.96.142",
+          "port": 39306,
+          "user": "ufe6719f2",
+          "pass": "26465053d3ed1aa1"
         }
      
       ]
@@ -510,18 +510,18 @@
 
         {
           "type": "http",
-          "proxy": "1.53.23.41",
-          "port": 33581,
-          "user": "u6d5e91d0",
-          "pass": "3d8e0d51841e4402"
+          "proxy": "1.54.96.142",
+          "port": 39306,
+          "user": "ufe6719f2",
+          "pass": "26465053d3ed1aa1"
         },
 
         {
           "type": "http",
-          "proxy": "27.65.255.98",
-          "port": 56434,
-          "user": "unityhelpdesk",
-          "pass": "@helpdesk@123"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14027,
+          "user": "userZyQ",
+          "pass": "waBJgzEk"
         }
      
       ]

@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "1.53.23.41"
-    port: 33581
-    username: "u6d5e91d0"
-    password: "3d8e0d51841e4402"
+    server: "1.54.96.142"
+    port: 39306
+    username: "ufe6719f2"
+    password: "26465053d3ed1aa1"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "27.65.255.98"
-    port: 56434
-    username: "unityhelpdesk"
-    password: "@helpdesk@123"
+    server: "dancu01.trumproxy.vn"
+    port: 14027
+    username: "userZyQ"
+    password: "waBJgzEk"
     udp: true
 
 

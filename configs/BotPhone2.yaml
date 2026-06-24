@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "113.176.39.25"
+    server: "dancu01.trumproxy.vn"
     port: 14006
     username: "useruYf"
     password: "fd0eNV6R"
@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "113.22.41.2"
-    port: 37344
-    username: "udd9c2476"
-    password: "c9b6f8b1841eb592"
+    server: "118.71.214.208"
+    port: 33319
+    username: "ua69093f4"
+    password: "b2329df1a61695ba"
     udp: true
 
 
