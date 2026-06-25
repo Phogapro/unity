@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "14.237.203.129"
-    port: 3991
-    username: "modvip4"
-    password: "njyzmdm5mzg1ng=="
+    server: "113.22.68.255"
+    port: 39543
+    username: "u1bb3ef9a"
+    password: "60ca6747904519bb"
     udp: true
 
   - name: BACKUP1

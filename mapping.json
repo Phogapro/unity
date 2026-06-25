@@ -469,10 +469,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "14.237.203.129",
-        "port": 3991,
-        "user": "modvip4",
-        "pass": "njyzmdm5mzg1ng=="
+        "proxy": "113.22.68.255",
+        "port": 39543,
+        "user": "u1bb3ef9a",
+        "pass": "60ca6747904519bb"
       },
 
       "backups": [
