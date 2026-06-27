@@ -147,10 +147,10 @@
 
         {
 		  "type": "http",
-          "proxy": "160.250.166.88",
-          "port": 20064,
-          "user": "backup3",
-          "pass": "VEuJrW"
+          "proxy": "sv1.proxysocks5.vn",
+          "port": 44214,
+          "user": "UFpzr5JA",
+          "pass": "cSpPRpwzaE"
         }
 
       ]
@@ -479,10 +479,10 @@
 
         {
           "type": "http",
-          "proxy": "160.250.166.88",
-          "port": 20064,
-          "user": "backup3",
-          "pass": "VEuJrW"
+          "proxy": "sv1.proxysocks5.vn",
+          "port": 44214,
+          "user": "UFpzr5JA",
+          "pass": "cSpPRpwzaE"
         },
 
         {

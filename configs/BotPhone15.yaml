@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "160.250.166.88"
-    port: 20064
-    username: "backup3"
-    password: "VEuJrW"
+    server: "sv1.proxysocks5.vn"
+    port: 44214
+    username: "UFpzr5JA"
+    password: "cSpPRpwzaE"
     udp: true
 
 
