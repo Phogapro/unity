@@ -221,10 +221,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "14.225.217.69",
-        "port": 46086,
-        "user": "TxFmtjlL",
-        "pass": "8dgKCGVRw0"
+        "proxy": "103.179.188.222",
+        "port": 23297,
+        "user": "backup3",
+        "pass": "backup3"
       },
 
       "backups": [
@@ -448,10 +448,10 @@
 
         {
           "type": "http",
-          "proxy": "103.179.188.222",
-          "port": 23297,
-          "user": "backup3",
-          "pass": "backup3"
+          "proxy": "14.225.217.69",
+          "port": 46086,
+          "user": "TxFmtjlL",
+          "pass": "8dgKCGVRw0"
         },
 
         {
