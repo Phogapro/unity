@@ -116,7 +116,7 @@
 
         {
 		  "type": "http",
-          "proxy": "171.252.33.175",
+          "proxy": "171.252.45.96",
           "port": 8045,
           "user": "modvip5",
           "pass": "mje2nju4njk2"
@@ -139,7 +139,7 @@
 
         {
           "type": "http",
-          "proxy": "171.252.33.175",
+          "proxy": "171.252.45.96",
           "port": 8045,
           "user": "modvip5",
           "pass": "mje2nju4njk2"
@@ -208,7 +208,7 @@
 
         {
 		  "type": "http",
-          "proxy": "171.246.121.156",
+          "proxy": "171.246.106.81",
           "port": 45044,
           "user": "modvipbk2",
           "pass": "otc2ndcxmzk5"
@@ -262,7 +262,7 @@
 
         {
           "type": "http",
-          "proxy": "171.246.121.156",
+          "proxy": "171.246.106.81",
           "port": 45044,
           "user": "modvipbk2",
           "pass": "otc2ndcxmzk5"
