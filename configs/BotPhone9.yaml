@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "103.166.184.92"
-    port: 13704
-    username: "new"
-    password: "new"
+    server: "dancu01.trumproxy.vn"
+    port: 14027
+    username: "userZyQ"
+    password: "waBJgzEk"
     udp: true
 
 

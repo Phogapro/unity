@@ -14,11 +14,11 @@
       "backups": [
 
         {
-          "type": "http",
-          "proxy": "dancu01.trumproxy.vn",
-          "port": 14006,
-          "user": "useruYf",
-          "pass": "fd0eNV6R"
+        "type": "http",
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14006,
+        "user": "useruYf",
+        "pass": "fd0eNV6R"
         },
 
         {
@@ -85,10 +85,10 @@
 
         {
           "type": "http",
-          "proxy": "103.166.184.92",
-          "port": 13704,
-          "user": "new",
-          "pass": "new"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14027,
+          "user": "userZyQ",
+          "pass": "waBJgzEk"
         }
 
       ]
@@ -116,10 +116,10 @@
 
         {
 		  "type": "http",
-          "proxy": "171.252.45.96",
-          "port": 8045,
-          "user": "modvip5",
-          "pass": "mje2nju4njk2"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14028,
+          "user": "userGxd",
+          "pass": "D5R6uMtL"
         }
 
       ]
@@ -139,10 +139,10 @@
 
         {
           "type": "http",
-          "proxy": "171.252.45.96",
-          "port": 8045,
-          "user": "modvip5",
-          "pass": "mje2nju4njk2"
+          "proxy": "14.250.75.253",
+          "port": 63376,
+          "user": "94pg3",
+          "pass": "ZHpkramgU9"
         },
 
         {
@@ -178,10 +178,10 @@
 
         {
 		  "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 36590,
-          "user": "backup5",
-          "pass": "backup5"
+          "proxy": "103.166.184.92",
+          "port": 13704,
+          "user": "new",
+          "pass": "new"
         }
 
       ]
@@ -200,18 +200,18 @@
 
         {
           "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 43053,
-          "user": "AQUCFCeG",
-          "pass": "hM63oAbOpb"
+          "proxy": "sv1.proxysocks5.vn",
+          "port": 44214,
+          "user": "UFpzr5JA",
+          "pass": "cSpPRpwzaE"
         },
 
         {
-		  "type": "http",
-          "proxy": "171.246.106.81",
-          "port": 45044,
-          "user": "modvipbk2",
-          "pass": "otc2ndcxmzk5"
+		"type": "http",
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14006,
+        "user": "useruYf",
+        "pass": "fd0eNV6R"
         }
 
       ]
@@ -230,19 +230,19 @@
       "backups": [
 
         {
-          "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 31512,
-          "user": "backup4",
-          "pass": "backup4"
+        "type": "http",
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14006,
+        "user": "useruYf",
+        "pass": "fd0eNV6R"
         },
 
         {
 		  "type": "http",
-          "proxy": "dancu01.trumproxy.vn",
-          "port": 14028,
-          "user": "userGxd",
-          "pass": "D5R6uMtL"
+          "proxy": "sv1.proxysocks5.vn",
+          "port": 44214,
+          "user": "UFpzr5JA",
+          "pass": "cSpPRpwzaE"
         }
 
       ]
@@ -262,18 +262,18 @@
 
         {
           "type": "http",
-          "proxy": "171.246.106.81",
-          "port": 45044,
-          "user": "modvipbk2",
-          "pass": "otc2ndcxmzk5"
+          "proxy": "14.250.79.164",
+          "port": 14270,
+          "user": "modvipbk1",
+          "pass": "otm1nzqzotm2"
         },
 
         {
 		  "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 31512,
-          "user": "backup4",
-          "pass": "backup4"
+          "proxy": "103.166.184.92",
+          "port": 13704,
+          "user": "new",
+          "pass": "new"
         }
 
       ]
@@ -293,18 +293,18 @@
 
         {
           "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 36590,
-          "user": "backup5",
-          "pass": "backup5"
+          "proxy": "103.166.184.92",
+          "port": 13704,
+          "user": "new",
+          "pass": "new"
         },
 
         {
 		  "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 43053,
-          "user": "AQUCFCeG",
-          "pass": "hM63oAbOpb"
+          "proxy": "118.71.214.208",
+          "port": 33319,
+          "user": "ua69093f4",
+          "pass": "b2329df1a61695ba"
         }
 
       ]
@@ -324,18 +324,18 @@
 
         {
           "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 57593,
-          "user": "4Tafn8m9",
-          "pass": "bZniM3WV01"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14028,
+          "user": "userGxd",
+          "pass": "D5R6uMtL"
         },
 
         {
           "type": "http",
-          "proxy": "dancu01.trumproxy.vn",
-          "port": 14006,
-          "user": "useruYf",
-          "pass": "fd0eNV6R"
+          "proxy": "14.250.75.253",
+          "port": 63376,
+          "user": "94pg3",
+          "pass": "ZHpkramgU9"
         }
      
       ]
@@ -354,19 +354,19 @@
       "backups": [
 
         {
-          "type": "socks5",
-          "proxy": "160.250.166.88",
-          "port": 20433,
-          "user": "phoga1",
-          "pass": "Phoga654321"
+          "type": "http",
+          "proxy": "14.250.75.253",
+          "port": 57958,
+          "user": "94pg2",
+          "pass": "AyTadKHGk5"
         },
 
         {
           "type": "http",
-          "proxy": "113.22.41.127",
-          "port": 35129,
-          "user": "u56f3def9",
-          "pass": "a30c0d84c29b8e22"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14028,
+          "user": "userGxd",
+          "pass": "D5R6uMtL"
         }
      
       ]
@@ -386,18 +386,18 @@
 
         {
           "type": "http",
-          "proxy": "113.22.41.127",
-          "port": 35129,
-          "user": "u56f3def9",
-          "pass": "a30c0d84c29b8e22"
+          "proxy": "14.250.75.253",
+          "port": 27717,
+          "user": "94pg1",
+          "pass": "ffJc122wRe"
         },
 
         {
-          "type": "http",
-        "proxy": "14.225.217.69",
-        "port": 57593,
-        "user": "4Tafn8m9",
-        "pass": "bZniM3WV01"
+        "type": "http",
+        "proxy": "dancu01.trumproxy.vn",
+        "port": 14006,
+        "user": "useruYf",
+        "pass": "fd0eNV6R"
         }
      
       ]
@@ -407,10 +407,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.246.241.34",
-        "port": 36860,
-        "user": "modvip1.1",
-        "pass": "ewtreytrey12341"
+        "proxy": "1.54.96.142",
+        "port": 39306,
+        "user": "ufe6719f2",
+        "pass": "26465053d3ed1aa1"
       },
 
       "backups": [
@@ -438,20 +438,20 @@
 
       "main": {
         "type": "http",
-        "proxy": "1.52.180.51",
-        "port": 59399,
-        "user": "modvip3",
-        "pass": "mdc2mjk3ndk4mtq0"
+        "proxy": "113.22.41.127",
+        "port": 35129,
+        "user": "u56f3def9",
+        "pass": "a30c0d84c29b8e22"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "14.225.217.69",
-          "port": 46086,
-          "user": "TxFmtjlL",
-          "pass": "8dgKCGVRw0"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14027,
+          "user": "userZyQ",
+          "pass": "waBJgzEk"
         },
 
         {
@@ -510,10 +510,10 @@
 
         {
           "type": "http",
-          "proxy": "1.54.96.142",
-          "port": 39306,
-          "user": "ufe6719f2",
-          "pass": "26465053d3ed1aa1"
+          "proxy": "118.71.214.208",
+          "port": 33319,
+          "user": "ua69093f4",
+          "pass": "b2329df1a61695ba"
         },
 
         {

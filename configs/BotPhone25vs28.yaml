@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.225.217.69"
-    port: 43053
-    username: "AQUCFCeG"
-    password: "hM63oAbOpb"
+    server: "sv1.proxysocks5.vn"
+    port: 44214
+    username: "UFpzr5JA"
+    password: "cSpPRpwzaE"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "171.246.106.81"
-    port: 45044
-    username: "modvipbk2"
-    password: "otc2ndcxmzk5"
+    server: "dancu01.trumproxy.vn"
+    port: 14006
+    username: "useruYf"
+    password: "fd0eNV6R"
     udp: true
 
 

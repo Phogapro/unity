@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "171.246.106.81"
-    port: 45044
-    username: "modvipbk2"
-    password: "otc2ndcxmzk5"
+    server: "14.250.79.164"
+    port: 14270
+    username: "modvipbk1"
+    password: "otm1nzqzotm2"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "103.179.189.197"
-    port: 31512
-    username: "backup4"
-    password: "backup4"
+    server: "103.166.184.92"
+    port: 13704
+    username: "new"
+    password: "new"
     udp: true
 
 

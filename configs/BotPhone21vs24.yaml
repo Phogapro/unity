@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "103.179.189.197"
-    port: 36590
-    username: "backup5"
-    password: "backup5"
+    server: "103.166.184.92"
+    port: 13704
+    username: "new"
+    password: "new"
     udp: true
 
 

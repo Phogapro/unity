@@ -8,18 +8,18 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "1.52.180.51"
-    port: 59399
-    username: "modvip3"
-    password: "mdc2mjk3ndk4mtq0"
+    server: "113.22.41.127"
+    port: 35129
+    username: "u56f3def9"
+    password: "a30c0d84c29b8e22"
     udp: true
 
   - name: BACKUP1
     type: "http"
-    server: "14.225.217.69"
-    port: 46086
-    username: "TxFmtjlL"
-    password: "8dgKCGVRw0"
+    server: "dancu01.trumproxy.vn"
+    port: 14027
+    username: "userZyQ"
+    password: "waBJgzEk"
     udp: true
 
   - name: BACKUP2

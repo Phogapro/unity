@@ -15,19 +15,19 @@ proxies:
     udp: true
 
   - name: BACKUP1
-    type: "socks5"
-    server: "160.250.166.88"
-    port: 20433
-    username: "phoga1"
-    password: "Phoga654321"
+    type: "http"
+    server: "14.250.75.253"
+    port: 57958
+    username: "94pg2"
+    password: "AyTadKHGk5"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "113.22.41.127"
-    port: 35129
-    username: "u56f3def9"
-    password: "a30c0d84c29b8e22"
+    server: "dancu01.trumproxy.vn"
+    port: 14028
+    username: "userGxd"
+    password: "D5R6uMtL"
     udp: true
 
 

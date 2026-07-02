@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "1.54.96.142"
-    port: 39306
-    username: "ufe6719f2"
-    password: "26465053d3ed1aa1"
+    server: "118.71.214.208"
+    port: 33319
+    username: "ua69093f4"
+    password: "b2329df1a61695ba"
     udp: true
 
   - name: BACKUP2
