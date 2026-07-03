@@ -1,0 +1,45 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "171.246.241.34"
+    port: 36860
+    username: "modvip1.1"
+    password: "ewtreytrey12341"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "sv1.proxysocks5.vn"
+    port: 44214
+    username: "UFpzr5JA"
+    password: "cSpPRpwzaE"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "1.54.96.142"
+    port: 39306
+    username: "ufe6719f2"
+    password: "26465053d3ed1aa1"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+      - BACKUP2
+
+rules:
+  - MATCH,AUTO

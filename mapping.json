@@ -495,6 +495,66 @@
      
       ]
     },
+"GROUP_PRIVATE_Vmos7": {
+
+      "main": {
+        "type": "http",
+        "proxy": "171.246.241.34",
+        "port": 36860,
+        "user": "modvip1.1",
+        "pass": "ewtreytrey12341"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "sv1.proxysocks5.vn",
+          "port": 44214,
+          "user": "UFpzr5JA",
+          "pass": "cSpPRpwzaE"
+        },
+
+        {
+          "type": "http",
+          "proxy": "1.54.96.142",
+          "port": 39306,
+          "user": "ufe6719f2",
+          "pass": "26465053d3ed1aa1"
+        }
+     
+      ]
+    },
+"GROUP_PRIVATE_Vmos8": {
+
+      "main": {
+        "type": "http",
+        "proxy": "sv1.proxysocks5.vn",
+        "port": 45744,
+        "user": "ThFDSFEW",
+        "pass": "b8ARSgC05I"
+      },
+
+      "backups": [
+
+        {
+          "type": "http",
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 14027,
+          "user": "userZyQ",
+          "pass": "waBJgzEk"
+        },
+
+        {
+          "type": "http",
+          "proxy": "14.250.75.253",
+          "port": 63376,
+          "user": "94pg3",
+          "pass": "ZHpkramgU9"
+        }
+     
+      ]
+    },
 	
 	"GROUP_PRIVATE_PhoneM1": {
 
@@ -589,6 +649,8 @@
 	"Vmos4": "GROUP_PRIVATE_Vmos4",
 	"Vmos5": "GROUP_PRIVATE_Vmos5",
 	"Vmos6": "GROUP_PRIVATE_Vmos6",
+	"Vmos7": "GROUP_PRIVATE_Vmos7",
+	"Vmos8": "GROUP_PRIVATE_Vmos8",
 	"PhoneM1": "GROUP_PRIVATE_PhoneM1",
     "PhoneB2": "GROUP_PRIVATE_PhoneB2"
 

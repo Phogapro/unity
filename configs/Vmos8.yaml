@@ -1,0 +1,45 @@
+
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+
+proxies:
+
+  - name: MAIN
+    type: "http"
+    server: "sv1.proxysocks5.vn"
+    port: 45744
+    username: "ThFDSFEW"
+    password: "b8ARSgC05I"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "dancu01.trumproxy.vn"
+    port: 14027
+    username: "userZyQ"
+    password: "waBJgzEk"
+    udp: true
+
+  - name: BACKUP2
+    type: "http"
+    server: "14.250.75.253"
+    port: 63376
+    username: "94pg3"
+    password: "ZHpkramgU9"
+    udp: true
+
+
+proxy-groups:
+  - name: AUTO
+    type: fallback
+    url: "http://www.gstatic.com/generate_204"
+    interval: 300
+    proxies:
+      - MAIN
+      - BACKUP1
+      - BACKUP2
+
+rules:
+  - MATCH,AUTO
