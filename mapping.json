@@ -98,10 +98,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.113.91.239",
-        "port": 36400,
-        "user": "uf886093d",
-        "pass": "dde5e61a9f0beaf4"
+        "proxy": "42.115.149.154",
+        "port": 32258,
+        "user": "u0bdf1a2c",
+        "pass": "b993a53bb7452022"
       },
 
       "backups": [
@@ -407,10 +407,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "1.54.96.142",
-        "port": 39306,
-        "user": "ufe6719f2",
-        "pass": "26465053d3ed1aa1"
+        "proxy": "42.116.176.65",
+        "port": 32976,
+        "user": "u2e768317",
+        "pass": "35e71797759e7cc1"
       },
 
       "backups": [
