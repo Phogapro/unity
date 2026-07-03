@@ -376,7 +376,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.241.78.191",
+        "proxy": "171.241.65.202",
         "port": 25649,
         "user": "modvip1.1",
         "pass": "ewtreytrey12341"
