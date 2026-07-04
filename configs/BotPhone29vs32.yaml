@@ -25,9 +25,9 @@ proxies:
   - name: BACKUP2
     type: "http"
     server: "sv1.proxysocks5.vn"
-    port: 44214
-    username: "UFpzr5JA"
-    password: "cSpPRpwzaE"
+    port: 45777
+    username: "asS7GDoi"
+    password: "0hcPXWHICO"
     udp: true
 
 

@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.250.75.253"
-    port: 27717
-    username: "94pg1"
-    password: "ffJc122wRe"
+    server: "103.82.194.60"
+    port: 14412
+    username: "2pbackup1"
+    password: "2pbackup1"
     udp: true
 
   - name: BACKUP2

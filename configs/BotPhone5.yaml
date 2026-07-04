@@ -23,11 +23,11 @@ proxies:
     udp: true
 
   - name: BACKUP2
-    type: "socks5"
-    server: "160.250.166.88"
-    port: 20433
-    username: "phoga1"
-    password: "Phoga654321"
+    type: "http"
+    server: "14.250.79.164"
+    port: 14270
+    username: "modvipbk1"
+    password: "otm1nzqzotm2"
     udp: true
 
 

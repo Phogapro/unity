@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.250.75.253"
-    port: 63376
-    username: "94pg3"
-    password: "ZHpkramgU9"
+    server: "118.71.214.208"
+    port: 33319
+    username: "ua69093f4"
+    password: "b2329df1a61695ba"
     udp: true
 
   - name: BACKUP2
     type: "http"
     server: "sv1.proxysocks5.vn"
-    port: 44214
-    username: "UFpzr5JA"
-    password: "cSpPRpwzaE"
+    port: 45777
+    username: "asS7GDoi"
+    password: "0hcPXWHICO"
     udp: true
 
 
