@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "1.55.2.50"
+    server: "118.71.206.6"
     port: 23141
     username: "modvipbk2"
     password: "mdq2mzi3mzkzmg=="
