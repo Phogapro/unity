@@ -16,7 +16,7 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "118.71.206.6"
+    server: "proxy14187.tproxy.id.vn"
     port: 23141
     username: "modvipbk2"
     password: "mdq2mzi3mzkzmg=="
