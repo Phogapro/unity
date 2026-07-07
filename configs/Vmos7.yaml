@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "171.246.241.34"
+    server: "proxy03083.cproxy.online"
     port: 36860
     username: "modvip1.1"
     password: "ewtreytrey12341"

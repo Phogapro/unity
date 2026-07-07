@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "171.241.65.202"
+    server: "proxy15075.rproxy.id.vn"
     port: 25649
     username: "modvip1.1"
     password: "ewtreytrey12341"

@@ -376,7 +376,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.241.65.202",
+        "proxy": "proxy15075.rproxy.id.vn",
         "port": 25649,
         "user": "modvip1.1",
         "pass": "ewtreytrey12341"
@@ -499,7 +499,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.246.241.34",
+        "proxy": "proxy03083.cproxy.online",
         "port": 36860,
         "user": "modvip1.1",
         "pass": "ewtreytrey12341"
