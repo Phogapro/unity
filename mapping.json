@@ -129,10 +129,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "103.82.192.234",
-        "port": 19803,
-        "user": "Macdinh1qu6",
-        "pass": "1779867303"
+        "proxy": "103.166.184.65",
+        "port": 22649,
+        "user": "21yinew",
+        "pass": "21yinew"
       },
 
       "backups": [
@@ -622,22 +622,11 @@
 
   "devices": {
 
-    "BotPhone1": "GROUP_BoxPhone123",
-    "BotPhone2": "GROUP_BoxPhone123",
-    "BotPhone3": "GROUP_BoxPhone123",
-    "BotPhone4": "GROUP_BoxPhone456",
-    "BotPhone5": "GROUP_BoxPhone456",
-    "BotPhone6": "GROUP_BoxPhone456",
-	"BotPhone7": "GROUP_BoxPhone789",
-	"BotPhone8": "GROUP_BoxPhone789",
-	"BotPhone9": "GROUP_BoxPhone789",
-	"BotPhone10": "GROUP_BoxPhone10x13",
-	"BotPhone11": "GROUP_BoxPhone10x13",
-	"BotPhone12": "GROUP_BoxPhone10x13",
-	"BotPhone13": "GROUP_BoxPhone10x13",
-	"BotPhone14": "GROUP_BoxPhone14x16",
-	"BotPhone15": "GROUP_BoxPhone14x16",
-	"BotPhone16": "GROUP_BoxPhone14x16",
+    "BotPhone123": "GROUP_BoxPhone123",
+    "BotPhone456": "GROUP_BoxPhone456",
+	"BotPhone789": "GROUP_BoxPhone789",
+	"BotPhone10x13": "GROUP_BoxPhone10x13",
+	"BotPhone14x16": "GROUP_BoxPhone14x16",
 	"BotPhone21vs24": "GROUP_BoxPhone21x24",
 	"BotPhone25vs28": "GROUP_BoxPhone25x28",
 	"BotPhone29vs32": "GROUP_BoxPhone29x32",
