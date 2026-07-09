@@ -469,10 +469,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "dancu01.trumproxy.vn",
-        "port": 14007,
-        "user": "userqHB",
-        "pass": "V0CumUB7"
+        "proxy": "171.246.250.255",
+        "port": 51225,
+        "user": "mmovmos6",
+        "pass": "mja5mtq3mda1"
       },
 
       "backups": [
