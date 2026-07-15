@@ -160,7 +160,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "183.80.15.232",
+        "proxy": "proxy11168.qproxy.online",
         "port": 13810,
         "user": "boxphone21x24",
         "pass": "ntm2njcxndcxna=="

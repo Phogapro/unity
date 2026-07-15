@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "183.80.15.232"
+    server: "proxy11168.qproxy.online"
     port: 13810
     username: "boxphone21x24"
     password: "ntm2njcxndcxna=="
