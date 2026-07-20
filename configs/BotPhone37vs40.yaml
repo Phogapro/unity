@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "1.53.23.228"
-    port: 30636
-    username: "ua1bb1091"
-    password: "8f18699028b04be6"
+    server: "118.71.67.81"
+    port: 33823
+    username: "ua6ae74f5"
+    password: "8ec072db97f29a66"
     udp: true
 
 
