@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "dancu01.trumproxy.vn"
-    port: 14005
-    username: "userd5a"
-    password: "opSLpEgR"
+    server: "113.22.53.90"
+    port: 27579
+    username: "mmobox33"
+    password: "njgzntyyotk1"
     udp: true
 
   - name: BACKUP1
