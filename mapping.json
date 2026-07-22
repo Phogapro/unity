@@ -509,18 +509,18 @@
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "dancu01.trumproxy.vn",
+          "port": 23297,
+          "user": "backup3",
+          "pass": "backup3"
         },
 
         {
           "type": "http",
           "proxy": "dancu01.trumproxy.vn",
-          "port": 14008,
-          "user": "user8ay",
-          "pass": "wLq2b4wv"
+          "port": 14007,
+          "user": "userqHB",
+          "pass": "V0CumUB7"
         }
      
       ]
