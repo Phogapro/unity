@@ -98,10 +98,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "1.55.232.102",
-        "port": 33949,
-        "user": "ua54a6064",
-        "pass": "6f76e12e210e8713"
+        "proxy": "118.71.214.252",
+        "port": 35313,
+        "user": "u729bbb07",
+        "pass": "ff89ed49ca5502bc"
       },
 
       "backups": [
