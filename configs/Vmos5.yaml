@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "proxy14187.tproxy.id.vn"
-    port: 23141
-    username: "modvipbk2"
-    password: "mdq2mzi3mzkzmg=="
+    server: "103.82.194.60"
+    port: 14412
+    username: "2pbackup1"
+    password: "2pbackup1"
     udp: true
 
 

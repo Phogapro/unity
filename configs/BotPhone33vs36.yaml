@@ -16,18 +16,18 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "14.250.79.164"
-    port: 14270
-    username: "modvipbk1"
-    password: "otm1nzqzotm2"
+    server: "dancu01.trumproxy.vn"
+    port: 14028
+    username: "userGxd"
+    password: "D5R6uMtL"
     udp: true
 
   - name: BACKUP2
     type: "http"
-    server: "103.166.184.92"
-    port: 13704
-    username: "new"
-    password: "new"
+    server: "118.71.67.81"
+    port: 33823
+    username: "ua6ae74f5"
+    password: "8ec072db97f29a66"
     udp: true
 
 

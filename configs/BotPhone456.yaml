@@ -24,10 +24,10 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "14.250.79.164"
-    port: 14270
-    username: "modvipbk1"
-    password: "otm1nzqzotm2"
+    server: "103.82.194.60"
+    port: 14412
+    username: "2pbackup1"
+    password: "2pbackup1"
     udp: true
 
 
