@@ -23,10 +23,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
 
       ]
@@ -108,10 +108,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         },
 
         {
@@ -139,10 +139,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         },
 
         {
@@ -178,10 +178,10 @@
 
         {
 		  "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
 
       ]
@@ -270,10 +270,10 @@
 
         {
 		  "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
 
       ]
@@ -301,10 +301,10 @@
 
         {
 		  "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
 
       ]
@@ -332,10 +332,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
      
       ]
@@ -355,10 +355,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         },
 
         {
@@ -438,10 +438,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.115.149.7",
-        "port": 30568,
-        "user": "ub079f122",
-        "pass": "71c7f0c4e3ef0db8"
+        "proxy": "118.69.98.62",
+        "port": 30199,
+        "user": "u7567e751",
+        "pass": "5f1d7dbdd480ffde"
       },
 
       "backups": [
@@ -487,10 +487,10 @@
 
         {
 		  "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         }
      
       ]
@@ -570,10 +570,10 @@
 
         {
           "type": "http",
-          "proxy": "118.71.67.81",
-          "port": 33823,
-          "user": "ua6ae74f5",
-          "pass": "8ec072db97f29a66"
+          "proxy": "42.115.149.85",
+          "port": 35091,
+          "user": "u9dacac1b",
+          "pass": "347f5f146d4f8f75"
         },
 
         {
