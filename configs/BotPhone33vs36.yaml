@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "113.22.53.90"
+    server: "proxy07189.lproxy.online"
     port: 27579
     username: "mmobox33"
     password: "njgzntyyotk1"

@@ -252,7 +252,7 @@
 
       "main": {
         "type": "http",
-        "proxy": "113.22.53.90",
+        "proxy": "proxy07189.lproxy.online",
         "port": 27579,
         "user": "mmobox33",
         "pass": "njgzntyyotk1"
