@@ -8,18 +8,18 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "proxy11168.qproxy.online"
-    port: 13810
-    username: "boxphone21x24"
-    password: "ntm2njcxndcxna=="
-    udp: true
-
-  - name: BACKUP1
-    type: "http"
     server: "118.71.214.252"
     port: 35313
     username: "u729bbb07"
     password: "ff89ed49ca5502bc"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "103.82.194.60"
+    port: 14412
+    username: "2pbackup1"
+    password: "2pbackup1"
     udp: true
 
   - name: BACKUP2

@@ -159,21 +159,21 @@
 	"GROUP_BoxPhone21x24": {
 
       "main": {
-        "type": "http",
-        "proxy": "proxy11168.qproxy.online",
-        "port": 13810,
-        "user": "boxphone21x24",
-        "pass": "ntm2njcxndcxna=="
+		  "type": "http",
+          "proxy": "118.71.214.252",
+          "port": 35313,
+          "user": "u729bbb07",
+          "pass": "ff89ed49ca5502bc"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "118.71.214.252",
-          "port": 35313,
-          "user": "u729bbb07",
-          "pass": "ff89ed49ca5502bc"
+          "proxy": "103.82.194.60",
+          "port": 14412,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         },
 
         {
@@ -376,10 +376,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "proxy15075.rproxy.id.vn",
-        "port": 25649,
-        "user": "modvip1.1",
-        "pass": "ewtreytrey12341"
+        "proxy": "sv1.proxysocks5.vn",
+        "port": 53050,
+        "user": "GWju0cLn",
+        "pass": "SRaPETEmMz"
       },
 
       "backups": [
@@ -499,20 +499,20 @@
 
       "main": {
         "type": "http",
-        "proxy": "proxy03083.cproxy.online",
-        "port": 36860,
-        "user": "modvip1.1",
-        "pass": "ewtreytrey12341"
+        "proxy": "103.166.184.65",
+        "port": 22649,
+        "user": "21yinew",
+        "pass": "21yinew"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "103.166.184.65",
-          "port": 22649,
-          "user": "21yinew",
-          "pass": "21yinew"
+          "proxy": "103.82.194.60",
+          "port": 14412,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         },
 
         {
@@ -530,9 +530,9 @@
       "main": {
         "type": "http",
         "proxy": "sv1.proxysocks5.vn",
-        "port": 45744,
-        "user": "ThFDSFEW",
-        "pass": "b8ARSgC05I"
+        "port": 53037,
+        "user": "JcpraHcZ",
+        "pass": "AmMOzytd8l"
       },
 
       "backups": [

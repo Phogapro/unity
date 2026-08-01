@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "proxy15075.rproxy.id.vn"
-    port: 25649
-    username: "modvip1.1"
-    password: "ewtreytrey12341"
+    server: "sv1.proxysocks5.vn"
+    port: 53050
+    username: "GWju0cLn"
+    password: "SRaPETEmMz"
     udp: true
 
   - name: BACKUP1

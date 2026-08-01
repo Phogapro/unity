@@ -8,18 +8,18 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "proxy03083.cproxy.online"
-    port: 36860
-    username: "modvip1.1"
-    password: "ewtreytrey12341"
-    udp: true
-
-  - name: BACKUP1
-    type: "http"
     server: "103.166.184.65"
     port: 22649
     username: "21yinew"
     password: "21yinew"
+    udp: true
+
+  - name: BACKUP1
+    type: "http"
+    server: "103.82.194.60"
+    port: 14412
+    username: "2pbackup1"
+    password: "2pbackup1"
     udp: true
 
   - name: BACKUP2

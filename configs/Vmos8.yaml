@@ -9,9 +9,9 @@ proxies:
   - name: MAIN
     type: "http"
     server: "sv1.proxysocks5.vn"
-    port: 45744
-    username: "ThFDSFEW"
-    password: "b8ARSgC05I"
+    port: 53037
+    username: "JcpraHcZ"
+    password: "AmMOzytd8l"
     udp: true
 
   - name: BACKUP1
