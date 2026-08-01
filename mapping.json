@@ -217,14 +217,14 @@
       ]
     },
 
-	"GROUP_BoxPhone29x32": {
+	"GROUP_BoxPhone36": {
 
       "main": {
         "type": "http",
-        "proxy": "103.179.188.222",
-        "port": 23297,
-        "user": "backup3",
-        "pass": "backup3"
+        "proxy": "sv1.proxysocks5.vn",
+        "port": 52881,
+        "user": "mMgbAmuZ",
+        "pass": "0k4lbZVWvp"
       },
 
       "backups": [
@@ -629,7 +629,7 @@
 	"BotPhone14x16": "GROUP_BoxPhone14x16",
 	"BotPhone21vs24": "GROUP_BoxPhone21x24",
 	"BotPhone25vs28": "GROUP_BoxPhone25x28",
-	"BotPhone29vs32": "GROUP_BoxPhone29x32",
+	"BotPhone36": "GROUP_BoxPhone36",
 	"BotPhone33vs36": "GROUP_BoxPhone33x36",
 	"BotPhone37vs40": "GROUP_BoxPhone37x40",
 	"vmos1": "GROUP_PRIVATE_Vmos1",

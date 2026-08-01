@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "103.179.188.222"
-    port: 23297
-    username: "backup3"
-    password: "backup3"
+    server: "sv1.proxysocks5.vn"
+    port: 52881
+    username: "mMgbAmuZ"
+    password: "0k4lbZVWvp"
     udp: true
 
   - name: BACKUP1
