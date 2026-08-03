@@ -170,10 +170,10 @@
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "103.179.189.197",
+          "port": 15402,
+          "user": "2pbackup2",
+          "pass": "2pbackup2"
         },
 
         {
@@ -200,18 +200,18 @@
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "103.179.189.197",
+          "port": 15402,
+          "user": "2pbackup2",
+          "pass": "2pbackup2"
         },
 
         {
-        "type": "http",
-        "proxy": "dancu01.trumproxy.vn",
-        "port": 14006,
-        "user": "useruYf",
-        "pass": "fd0eNV6R"
+          "type": "http",
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         }
 
       ]
@@ -231,18 +231,18 @@
 
         {
         "type": "http",
-        "proxy": "dancu01.trumproxy.vn",
-        "port": 14006,
-        "user": "useruYf",
-        "pass": "fd0eNV6R"
+        "proxy": "103.82.194.108",
+        "port": 37778,
+        "user": "2pbackup1",
+        "pass": "2pbackup1"
         },
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         }
 
       ]
@@ -362,11 +362,11 @@
         },
 
         {
-		  "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+		"type": "http",
+        "proxy": "103.82.194.108",
+        "port": 37778,
+        "user": "2pbackup1",
+        "pass": "2pbackup1"
         }
      
       ]
@@ -386,18 +386,18 @@
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "103.166.184.186",
+          "port": 29254,
+          "user": "2pbackuppro1",
+          "pass": "2pbackuppro1"
         },
 
         {
         "type": "http",
-        "proxy": "dancu01.trumproxy.vn",
-        "port": 14006,
-        "user": "useruYf",
-        "pass": "fd0eNV6R"
+          "proxy": "103.179.189.197",
+          "port": 15402,
+          "user": "2pbackup2",
+          "pass": "2pbackup2"
         }
      
       ]
@@ -417,18 +417,18 @@
 
         {
           "type": "http",
-          "proxy": "dancu01.trumproxy.vn",
-          "port": 14008,
-          "user": "user8ay",
-          "pass": "wLq2b4wv"
+          "proxy": "103.166.184.186",
+          "port": 29254,
+          "user": "2pbackuppro1",
+          "pass": "2pbackuppro1"
         },
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "103.179.189.197",
+          "port": 15402,
+          "user": "2pbackup2",
+          "pass": "2pbackup2"
         }
      
       ]
@@ -455,11 +455,11 @@
         },
 
         {
-          "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+        "type": "http",
+        "proxy": "103.82.194.108",
+        "port": 37778,
+        "user": "2pbackup1",
+        "pass": "2pbackup1"
         }
      
       ]
@@ -509,18 +509,18 @@
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         },
 
         {
           "type": "http",
-          "proxy": "dancu01.trumproxy.vn",
-          "port": 14008,
-          "user": "user8ay",
-          "pass": "wLq2b4wv"
+          "proxy": "103.166.184.186",
+          "port": 29254,
+          "user": "2pbackuppro1",
+          "pass": "2pbackuppro1"
         }
      
       ]
@@ -539,18 +539,18 @@
 
         {
         "type": "http",
-        "proxy": "dancu01.trumproxy.vn",
-        "port": 14006,
-        "user": "useruYf",
-        "pass": "fd0eNV6R"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         },
 
         {
           "type": "http",
-          "proxy": "103.82.194.60",
-          "port": 14412,
-          "user": "2pbackup1",
-          "pass": "2pbackup1"
+          "proxy": "103.166.184.186",
+          "port": 29254,
+          "user": "2pbackuppro1",
+          "pass": "2pbackuppro1"
         }
      
       ]
