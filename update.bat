@@ -40,7 +40,7 @@ echo.
 echo [4/5] Git commit...
 git add .
 
-git commit -m "update 030826"
+git commit -m "update 070826"
 
 echo.
 echo [5/5] Push GitHub...
