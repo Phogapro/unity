@@ -16,10 +16,10 @@ proxies:
 
   - name: BACKUP1
     type: "http"
-    server: "dancu01.trumproxy.vn"
-    port: 14027
-    username: "userZyQ"
-    password: "waBJgzEk"
+    server: "103.179.189.197"
+    port: 15402
+    username: "2pbackup2"
+    password: "2pbackup2"
     udp: true
 
   - name: BACKUP2
