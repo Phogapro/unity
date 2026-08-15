@@ -9,9 +9,9 @@ proxies:
   - name: MAIN
     type: "http"
     server: "sv1.proxysocks5.vn"
-    port: 52881
-    username: "mMgbAmuZ"
-    password: "0k4lbZVWvp"
+    port: 57378
+    username: "UwphrI5s"
+    password: "0z51QswVk6"
     udp: true
 
   - name: BACKUP1

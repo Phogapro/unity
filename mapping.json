@@ -222,9 +222,9 @@
       "main": {
         "type": "http",
         "proxy": "sv1.proxysocks5.vn",
-        "port": 52881,
-        "user": "mMgbAmuZ",
-        "pass": "0k4lbZVWvp"
+        "port": 57378,
+        "user": "UwphrI5s",
+        "pass": "0z51QswVk6"
       },
 
       "backups": [
@@ -377,9 +377,9 @@
       "main": {
         "type": "http",
         "proxy": "sv1.proxysocks5.vn",
-        "port": 53050,
-        "user": "GWju0cLn",
-        "pass": "SRaPETEmMz"
+        "port": 55370,
+        "user": "zAqVdDKH",
+        "pass": "ytilgR4tOO"
       },
 
       "backups": [
@@ -530,9 +530,9 @@
       "main": {
         "type": "http",
         "proxy": "sv1.proxysocks5.vn",
-        "port": 53037,
-        "user": "JcpraHcZ",
-        "pass": "AmMOzytd8l"
+        "port": 57346,
+        "user": "9FBg5aYo",
+        "pass": "9mHPPctL2I"
       },
 
       "backups": [
