@@ -407,10 +407,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "42.116.175.4",
-        "port": 37918,
-        "user": "u3bf2356f",
-        "pass": "6a5933a73c8ed1ca"
+        "proxy": "1.53.23.240",
+        "port": 37413,
+        "user": "uf3830c7d",
+        "pass": "2461a83add604d29"
       },
 
       "backups": [
