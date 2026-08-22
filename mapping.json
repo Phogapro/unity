@@ -469,10 +469,10 @@
 
       "main": {
         "type": "http",
-        "proxy": "171.246.250.255",
-        "port": 51225,
+        "proxy": "proxy13046.iproxy.id.vn",
+        "port": 27987,
         "user": "mmovmos6",
-        "pass": "mja5mtq3mda1"
+        "pass": "nza4otc5mzi1"
       },
 
       "backups": [

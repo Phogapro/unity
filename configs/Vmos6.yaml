@@ -8,10 +8,10 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "171.246.250.255"
-    port: 51225
+    server: "proxy13046.iproxy.id.vn"
+    port: 27987
     username: "mmovmos6"
-    password: "mja5mtq3mda1"
+    password: "nza4otc5mzi1"
     udp: true
 
   - name: BACKUP1
