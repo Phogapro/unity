@@ -8,7 +8,7 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "103.166.184.65"
+    server: "103.82.21.97"
     port: 22649
     username: "21yinew"
     password: "21yinew"

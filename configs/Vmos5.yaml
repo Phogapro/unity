@@ -24,7 +24,7 @@ proxies:
 
   - name: BACKUP2
     type: "http"
-    server: "103.82.194.108"
+    server: "103.82.193.160"
     port: 37778
     username: "2pbackup1"
     password: "2pbackup1"
