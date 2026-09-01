@@ -8,26 +8,26 @@ proxies:
 
   - name: MAIN
     type: "http"
-    server: "118.71.170.61"
-    port: 38398
-    username: "u08cc4493"
-    password: "3e2a030784dccad0"
-    udp: true
-
-  - name: BACKUP1
-    type: "http"
     server: "103.166.184.186"
     port: 29254
     username: "2pbackuppro1"
     password: "2pbackuppro1"
     udp: true
 
+  - name: BACKUP1
+    type: "http"
+    server: "103.82.193.160"
+    port: 37778
+    username: "2pbackup1"
+    password: "2pbackup1"
+    udp: true
+
   - name: BACKUP2
     type: "http"
-    server: "103.179.189.197"
-    port: 15402
-    username: "2pbackup2"
-    password: "2pbackup2"
+    server: "222.255.180.44"
+    port: 25895
+    username: "new"
+    password: "new"
     udp: true
 
 

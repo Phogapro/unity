@@ -170,10 +170,10 @@
 
         {
           "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 15402,
-          "user": "2pbackup2",
-          "pass": "2pbackup2"
+          "proxy": "103.82.193.160",
+          "port": 37778,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         },
 
         {
@@ -385,19 +385,19 @@
       "backups": [
 
         {
-          "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 29254,
-          "user": "2pbackuppro1",
-          "pass": "2pbackuppro1"
+        "type": "http",
+        "proxy": "103.82.193.160",
+        "port": 37778,
+        "user": "2pbackup1",
+        "pass": "2pbackup1"
         },
 
         {
-        "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 15402,
-          "user": "2pbackup2",
-          "pass": "2pbackup2"
+          "type": "http",
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         }
      
       ]
@@ -407,28 +407,28 @@
 
       "main": {
         "type": "http",
-        "proxy": "118.71.170.61",
-        "port": 38398,
-        "user": "u08cc4493",
-        "pass": "3e2a030784dccad0"
+          "proxy": "103.166.184.186",
+          "port": 29254,
+          "user": "2pbackuppro1",
+          "pass": "2pbackuppro1"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 29254,
-          "user": "2pbackuppro1",
-          "pass": "2pbackuppro1"
+          "proxy": "103.82.193.160",
+          "port": 37778,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         },
 
         {
           "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 15402,
-          "user": "2pbackup2",
-          "pass": "2pbackup2"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         }
      
       ]
@@ -437,21 +437,21 @@
 "GROUP_PRIVATE_Vmos5": {
 
       "main": {
-        "type": "http",
-        "proxy": "42.116.175.71",
-        "port": 30530,
-        "user": "u0b029d88",
-        "pass": "c5cd26974fb381a1"
+          "type": "http",
+          "proxy": "103.179.189.197",
+          "port": 15402,
+          "user": "2pbackup2",
+          "pass": "2pbackup2"
       },
 
       "backups": [
 
         {
           "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 15402,
-          "user": "2pbackup2",
-          "pass": "2pbackup2"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         },
 
         {
@@ -479,10 +479,10 @@
 
         {
           "type": "http",
-          "proxy": "103.179.189.197",
-          "port": 15402,
-          "user": "2pbackup2",
-          "pass": "2pbackup2"
+          "proxy": "222.255.180.44",
+          "port": 25895,
+          "user": "new",
+          "pass": "new"
         },
 
         {
@@ -517,10 +517,10 @@
 
         {
           "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 29254,
-          "user": "2pbackuppro1",
-          "pass": "2pbackuppro1"
+		  "proxy": "103.82.193.160",
+          "port": 37778,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         }
      
       ]
@@ -547,10 +547,10 @@
 
         {
           "type": "http",
-          "proxy": "103.166.184.186",
-          "port": 29254,
-          "user": "2pbackuppro1",
-          "pass": "2pbackuppro1"
+          "proxy": "103.82.193.160",
+          "port": 37778,
+          "user": "2pbackup1",
+          "pass": "2pbackup1"
         }
      
       ]
